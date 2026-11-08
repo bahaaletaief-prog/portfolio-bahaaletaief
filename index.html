@@ -1,0 +1,480 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Bahaa Letaief — Portfolio BTS SIO SISR</title>
+  <meta name="description" content="Portfolio de Bahaa Letaief, étudiant en BTS SIO option SISR à MyDigitalSchool Montpellier, alternant à la Mairie de Saint-Clément-de-Rivière.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230b1220'/%3E%3Ctext x='50%25' y='56%25' text-anchor='middle' dominant-baseline='middle' font-family='monospace' font-weight='700' font-size='30' fill='%2322d3ee'%3EBL%3C/text%3E%3C/svg%3E">
+</head>
+<body>
+  <a class="skip" href="#main">Aller au contenu</a>
+
+  <!-- ============ NAVIGATION ============ -->
+  <header class="nav" id="top">
+    <div class="container nav__inner">
+      <a href="#accueil" class="nav__brand" aria-label="Accueil">
+        <span class="nav__logo">BL</span>
+        <span class="nav__name">bahaa<span class="muted">@sisr</span></span>
+      </a>
+      <nav aria-label="Navigation principale">
+        <ul class="nav__links" id="navLinks">
+          <li><a href="#profil">Profil</a></li>
+          <li><a href="#parcours">Parcours</a></li>
+          <li><a href="#mairie">Mairie</a></li>
+          <li><a href="#projets">Réalisations</a></li>
+          <li><a href="#competences">Compétences</a></li>
+          <li><a href="#veille">Veille</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
+      <div class="nav__actions">
+        <button class="icon-btn" id="themeToggle" type="button" aria-label="Changer de thème">
+          <svg class="i-sun" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg>
+          <svg class="i-moon" viewBox="0 0 24 24" aria-hidden="true"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>
+        </button>
+        <button class="icon-btn nav__burger" id="navToggle" type="button" aria-label="Ouvrir le menu" aria-expanded="false" aria-controls="navLinks">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <main id="main">
+
+    <!-- ============ HERO ============ -->
+    <section class="hero" id="accueil">
+      <div class="hero__grid-bg" aria-hidden="true"></div>
+      <div class="container hero__inner">
+        <div class="hero__text reveal">
+          <p class="eyebrow"><span class="dot dot--live"></span> Alternance 2026 – 2027 · en poste</p>
+          <h1>Bahaa <span class="accent">Letaief</span></h1>
+          <p class="hero__role">Étudiant en <strong>BTS SIO option SISR</strong> — 2<sup>e</sup> année<br>
+            Alternant technicien systèmes &amp; réseaux à la <strong>Mairie de Saint-Clément-de-Rivière</strong></p>
+          <p class="hero__lead">Je fais tourner, je sécurise et je documente l'informatique d'une collectivité : postes des agents, réseau, comptes utilisateurs et support au quotidien.</p>
+          <div class="hero__cta">
+            <a href="#mairie" class="btn btn--primary">Voir mon expérience</a>
+            <a href="#projets" class="btn btn--ghost">Mes réalisations</a>
+          </div>
+          <ul class="hero__meta">
+            <li><span class="k">école</span> MyDigitalSchool Montpellier</li>
+            <li><span class="k">formation</span> BTS SIO SISR 2025 – 2027</li>
+            <li><span class="k">lieu</span> Montpellier · Hérault (34)</li>
+          </ul>
+        </div>
+
+        <div class="terminal reveal" aria-label="Terminal de présentation">
+          <div class="terminal__bar">
+            <span></span><span></span><span></span>
+            <p>bahaa@mairie-scr: ~</p>
+          </div>
+          <pre class="terminal__body" id="terminal" aria-live="polite"><noscript>$ whoami
+bahaa.letaief — BTS SIO SISR (2e année)
+$ cat poste.txt
+Alternant IT · Mairie de Saint-Clément-de-Rivière
+$ systemctl status motivation
+● active (running)</noscript></pre>
+        </div>
+      </div>
+
+      <div class="container">
+        <ul class="stats reveal">
+          <li><strong>2</strong><span>années à la mairie<br>stage puis alternance</span></li>
+          <li><strong>6</strong><span>mois de stage<br>02/2026 → 07/2026</span></li>
+          <li><strong>3</strong><span>projets publics<br>sur GitHub</span></li>
+          <li><strong>4</strong><span>langues<br>FR · EN · AR · ES</span></li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- ============ PROFIL ============ -->
+    <section class="section" id="profil">
+      <div class="container">
+        <header class="section__head reveal">
+          <p class="section__num">01</p>
+          <h2>Profil</h2>
+          <p class="section__sub">Qui je suis et ce que je cherche à devenir.</p>
+        </header>
+
+        <div class="profile">
+          <div class="profile__text reveal">
+            <p>Je m'appelle <strong>Bahaa Letaief</strong> et je suis en 2<sup>e</sup> année de <strong>BTS Services Informatiques aux Organisations, option Solutions d'Infrastructure, Systèmes et Réseaux (SISR)</strong> à MyDigitalSchool Montpellier.</p>
+            <p>J'ai découvert l'informatique par la maintenance et le dépannage, puis je me suis orienté vers l'administration système, le réseau et la cybersécurité. Après un premier stage de six mois à la <strong>Mairie de Saint-Clément-de-Rivière</strong>, j'y poursuis cette année ma formation <strong>en alternance</strong>.</p>
+            <p>Mon objectif : devenir un technicien puis un administrateur polyvalent, capable de garantir le bon fonctionnement, la fiabilité et la sécurité d'un système d'information — et de rendre la technologie simple pour les utilisateurs.</p>
+            <blockquote>« L'informatique, c'est résoudre des problèmes, apprendre chaque jour et rendre la technologie accessible à tous. »</blockquote>
+          </div>
+
+          <aside class="profile__card reveal">
+            <h3>En bref</h3>
+            <dl>
+              <div><dt>Statut</dt><dd>Alternant 2026 – 2027</dd></div>
+              <div><dt>Entreprise</dt><dd>Mairie de Saint-Clément-de-Rivière</dd></div>
+              <div><dt>Formation</dt><dd>BTS SIO SISR · MyDigitalSchool</dd></div>
+              <div><dt>Mobilité</dt><dd>Permis A et B · véhiculé</dd></div>
+            </dl>
+            <h3>Langues</h3>
+            <ul class="langs">
+              <li><span>Français</span><span class="bar"><i style="--w:100%"></i></span><em>natif</em></li>
+              <li><span>Anglais</span><span class="bar"><i style="--w:100%"></i></span><em>C2</em></li>
+              <li><span>Arabe</span><span class="bar"><i style="--w:100%"></i></span><em>C2</em></li>
+              <li><span>Espagnol</span><span class="bar"><i style="--w:40%"></i></span><em>A2</em></li>
+              <li><span>Russe</span><span class="bar"><i style="--w:18%"></i></span><em>A1</em></li>
+            </ul>
+          </aside>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ PARCOURS ============ -->
+    <section class="section section--alt" id="parcours">
+      <div class="container">
+        <header class="section__head reveal">
+          <p class="section__num">02</p>
+          <h2>Parcours</h2>
+          <p class="section__sub">Formation et expériences, de la plus récente à la plus ancienne.</p>
+        </header>
+
+        <ol class="timeline">
+          <li class="timeline__item timeline__item--now reveal">
+            <span class="timeline__date">2026 – 2027</span>
+            <div class="timeline__card">
+              <span class="tag tag--pro">Alternance</span>
+              <h3>Alternant technicien systèmes &amp; réseaux</h3>
+              <p class="timeline__org">Mairie de Saint-Clément-de-Rivière (34)</p>
+              <p>2<sup>e</sup> année de BTS en alternance au service informatique de la commune, dans la continuité de mon stage.</p>
+            </div>
+          </li>
+          <li class="timeline__item reveal">
+            <span class="timeline__date">02/2026 – 07/2026</span>
+            <div class="timeline__card">
+              <span class="tag tag--stage">Stage · 6 mois</span>
+              <h3>Stagiaire technicien informatique</h3>
+              <p class="timeline__org">Mairie de Saint-Clément-de-Rivière (34)</p>
+              <p>Première immersion dans le SI d'une collectivité : support aux agents, gestion du parc et découverte de l'infrastructure.</p>
+            </div>
+          </li>
+          <li class="timeline__item reveal">
+            <span class="timeline__date">2025 – 2027</span>
+            <div class="timeline__card">
+              <span class="tag tag--school">Formation</span>
+              <h3>BTS SIO — option SISR</h3>
+              <p class="timeline__org">MyDigitalSchool, Montpellier</p>
+              <p>Réseaux et systèmes d'information, gestion et sécurité des infrastructures, administration et support technique.</p>
+            </div>
+          </li>
+          <li class="timeline__item reveal">
+            <span class="timeline__date">2023 – 2025</span>
+            <div class="timeline__card">
+              <span class="tag tag--pro">Expérience</span>
+              <h3>Assistant développeur / IT</h3>
+              <p class="timeline__org">Teeptrak, Paris</p>
+              <p>Développement d'outils internes et de mini-applications, maintenance et optimisation de petits réseaux, gestion de version avec Git et GitHub.</p>
+            </div>
+          </li>
+          <li class="timeline__item reveal">
+            <span class="timeline__date">2022 – 2023</span>
+            <div class="timeline__card">
+              <span class="tag tag--school">Formation</span>
+              <h3>Classe préparatoire MP2I</h3>
+              <p class="timeline__org">Lycée Claude Bernard, Paris</p>
+              <p>Mathématiques, algorithmique et programmation.</p>
+            </div>
+          </li>
+          <li class="timeline__item reveal">
+            <span class="timeline__date">2022</span>
+            <div class="timeline__card">
+              <span class="tag tag--school">Diplôme</span>
+              <h3>Baccalauréat général — spécialité scientifique</h3>
+              <p class="timeline__org">Lycée Joffre, Montpellier</p>
+              <p>Certification PIX et Cambridge English Assessment (2022).</p>
+            </div>
+          </li>
+        </ol>
+      </div>
+    </section>
+
+    <!-- ============ MAIRIE ============ -->
+    <section class="section" id="mairie">
+      <div class="container">
+        <header class="section__head reveal">
+          <p class="section__num">03</p>
+          <h2>Mairie de Saint-Clément-de-Rivière</h2>
+          <p class="section__sub">Stage en 1<sup>re</sup> année, alternance en 2<sup>e</sup> année : deux ans au sein du même service informatique.</p>
+        </header>
+
+        <div class="org reveal">
+          <div class="org__info">
+            <h3>L'organisation</h3>
+            <p>Saint-Clément-de-Rivière est une commune de l'Hérault située au nord de Montpellier, membre de la Métropole. La mairie regroupe les services administratifs (accueil, état civil, urbanisme, ressources humaines, finances), les services techniques et les structures municipales comme les écoles.</p>
+            <p>Le service informatique assure le fonctionnement de l'ensemble du système d'information : postes des agents, serveurs, réseau entre les bâtiments, téléphonie, impression, comptes et sécurité des données.</p>
+          </div>
+          <ul class="org__facts">
+            <li><span class="k">Secteur</span>Collectivité territoriale</li>
+            <li><span class="k">Lieu</span>Saint-Clément-de-Rivière (34980)</li>
+            <li><span class="k">Service</span>Informatique / numérique</li>
+            <li><span class="k">Rythme</span>Alternance école / mairie</li>
+          </ul>
+        </div>
+
+        <div class="periods">
+          <article class="period reveal">
+            <header class="period__head">
+              <span class="tag tag--stage">Stage · 1<sup>re</sup> année</span>
+              <p class="period__date">Février 2026 → Juillet 2026</p>
+              <h3>Découvrir et prendre en main le SI</h3>
+            </header>
+            <ul class="checklist">
+              <li>Support de niveau 1 auprès des agents : messagerie, bureautique, imprimantes, accès réseau.</li>
+              <li>Préparation et installation de postes de travail (Windows, logiciels métiers, mises à jour).</li>
+              <li>Inventaire du parc informatique et suivi des demandes dans un outil de ticketing.</li>
+              <li>Création et gestion de comptes utilisateurs, réinitialisation de mots de passe.</li>
+              <li>Rédaction de procédures simples à destination des agents.</li>
+            </ul>
+            <ul class="chips">
+              <li>Windows 10/11</li><li>Active Directory</li><li>GLPI</li><li>Support N1</li><li>Documentation</li>
+            </ul>
+          </article>
+
+          <article class="period period--now reveal">
+            <header class="period__head">
+              <span class="tag tag--pro">Alternance · 2<sup>e</sup> année</span>
+              <p class="period__date">2026 → 2027 · en cours</p>
+              <h3>Gagner en autonomie et en responsabilités</h3>
+            </header>
+            <ul class="checklist">
+              <li>Administration des comptes et des droits (Active Directory, groupes, partages).</li>
+              <li>Maintenance du réseau des bâtiments communaux : switchs, Wi-Fi, adressage, diagnostics.</li>
+              <li>Suivi des sauvegardes et des mises à jour de sécurité des postes et serveurs.</li>
+              <li>Plan de renouvellement du parc et préparation des déploiements.</li>
+              <li>Sensibilisation des agents à la cybersécurité (phishing, mots de passe, bonnes pratiques).</li>
+            </ul>
+            <ul class="chips">
+              <li>Windows Server</li><li>Réseau / VLAN</li><li>Sauvegardes</li><li>Cybersécurité</li><li>Gestion de parc</li>
+            </ul>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ PROJETS ============ -->
+    <section class="section section--alt" id="projets">
+      <div class="container">
+        <header class="section__head reveal">
+          <p class="section__num">04</p>
+          <h2>Réalisations</h2>
+          <p class="section__sub">Situations professionnelles en mairie et projets menés en formation ou en autonomie.</p>
+        </header>
+
+        <div class="filters reveal" role="group" aria-label="Filtrer les réalisations">
+          <button type="button" class="filter is-active" data-filter="all">Toutes</button>
+          <button type="button" class="filter" data-filter="mairie">Mairie</button>
+          <button type="button" class="filter" data-filter="ecole">Formation</button>
+          <button type="button" class="filter" data-filter="perso">Personnel</button>
+        </div>
+
+        <div class="projects" id="projectGrid">
+          <article class="project reveal" data-cat="mairie">
+            <div class="project__top"><span class="project__icon" aria-hidden="true">▤</span><span class="tag tag--pro">Mairie</span></div>
+            <h3>Inventaire &amp; gestion du parc</h3>
+            <p>Recensement des postes, imprimantes et équipements réseau des services municipaux, centralisés dans GLPI pour suivre l'état du parc et les interventions.</p>
+            <ul class="chips chips--sm"><li>GLPI</li><li>Inventaire</li><li>PowerShell</li></ul>
+          </article>
+
+          <article class="project reveal" data-cat="mairie">
+            <div class="project__top"><span class="project__icon" aria-hidden="true">☏</span><span class="tag tag--pro">Mairie</span></div>
+            <h3>Support aux agents</h3>
+            <p>Prise en charge des demandes et incidents des agents, diagnostic, résolution ou escalade, et traçabilité de chaque intervention dans l'outil de ticketing.</p>
+            <ul class="chips chips--sm"><li>Ticketing</li><li>Support N1</li><li>Active Directory</li></ul>
+          </article>
+
+          <article class="project reveal" data-cat="mairie">
+            <div class="project__top"><span class="project__icon" aria-hidden="true">⛨</span><span class="tag tag--pro">Mairie</span></div>
+            <h3>Sensibilisation cybersécurité</h3>
+            <p>Fiches pratiques pour les agents sur le phishing, les mots de passe et le verrouillage des postes, à partir des recommandations de l'ANSSI et de Cybermalveillance.gouv.fr.</p>
+            <ul class="chips chips--sm"><li>Cybersécurité</li><li>Communication</li><li>Procédures</li></ul>
+          </article>
+
+          <article class="project reveal" data-cat="ecole">
+            <div class="project__top"><span class="project__icon" aria-hidden="true">⇄</span><span class="tag tag--school">Formation</span></div>
+            <h3>Réseau d'entreprise segmenté</h3>
+            <p>Réseau local sous Cisco Packet Tracer : plusieurs VLAN, routage inter-VLAN, tests de connectivité et supervision, pour garantir une communication cloisonnée entre services.</p>
+            <ul class="chips chips--sm"><li>Cisco</li><li>VLAN</li><li>Routage</li><li>DHCP</li></ul>
+          </article>
+
+          <article class="project reveal" data-cat="ecole">
+            <div class="project__top"><span class="project__icon" aria-hidden="true">⌘</span><span class="tag tag--school">Formation</span></div>
+            <h3>Kit helpdesk niveau 1</h3>
+            <p>Scripts PowerShell et Bash pour les opérations courantes (inventaire machine, mot de passe temporaire, test réseau et DNS), avec modèles de tickets et checklist d'onboarding.</p>
+            <ul class="chips chips--sm"><li>PowerShell</li><li>Bash</li><li>Ticketing</li></ul>
+            <a class="project__link" href="https://github.com/bahaaletaief-prog/helpdesk-spieics" target="_blank" rel="noopener">Voir le dépôt GitHub →</a>
+          </article>
+
+          <article class="project reveal" data-cat="perso">
+            <div class="project__top"><span class="project__icon" aria-hidden="true">◎</span><span class="tag tag--perso">Personnel</span></div>
+            <h3>Scanner de ports en Python</h3>
+            <p>Script qui scanne les ports ouverts d'un hôte local ou distant et identifie les services actifs : une première approche de l'analyse de vulnérabilités et du pentest éthique.</p>
+            <ul class="chips chips--sm"><li>Python</li><li>Sockets</li><li>Sécurité</li></ul>
+          </article>
+
+          <article class="project reveal" data-cat="perso">
+            <div class="project__top"><span class="project__icon" aria-hidden="true">⚙</span><span class="tag tag--perso">Personnel</span></div>
+            <h3>DB Autosphere</h3>
+            <p>Application web de gestion de flotte automobile : tableau de bord, réservations avec calendrier, suivi de maintenance, notes par véhicule et corbeille, avec sauvegarde locale.</p>
+            <ul class="chips chips--sm"><li>HTML</li><li>CSS</li><li>JavaScript</li></ul>
+            <a class="project__link" href="https://github.com/bahaaletaief-prog/DB-Autosphere" target="_blank" rel="noopener">Voir le dépôt GitHub →</a>
+          </article>
+
+          <article class="project reveal" data-cat="perso">
+            <div class="project__top"><span class="project__icon" aria-hidden="true">⚑</span><span class="tag tag--perso">Personnel</span></div>
+            <h3>Challenges cybersécurité</h3>
+            <p>Participation à des challenges techniques sur TryHackMe et HackTheBox, analyse de vulnérabilités et rédaction de rapports.</p>
+            <ul class="chips chips--sm"><li>TryHackMe</li><li>HackTheBox</li><li>Linux</li></ul>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ COMPETENCES ============ -->
+    <section class="section" id="competences">
+      <div class="container">
+        <header class="section__head reveal">
+          <p class="section__num">05</p>
+          <h2>Compétences</h2>
+          <p class="section__sub">Compétences techniques et tableau de synthèse du bloc 1 du référentiel BTS SIO.</p>
+        </header>
+
+        <div class="skills">
+          <div class="skill reveal">
+            <h3><span aria-hidden="true">▣</span> Systèmes</h3>
+            <ul><li>Windows 10/11, Windows Server</li><li>Linux (Debian, Ubuntu)</li><li>Active Directory, GPO</li><li>Gestion des utilisateurs et des droits</li></ul>
+          </div>
+          <div class="skill reveal">
+            <h3><span aria-hidden="true">⇄</span> Réseaux</h3>
+            <ul><li>TCP/IP, adressage, sous-réseaux</li><li>VLAN, routage inter-VLAN</li><li>DHCP, DNS</li><li>Cisco Packet Tracer</li></ul>
+          </div>
+          <div class="skill reveal">
+            <h3><span aria-hidden="true">⛨</span> Cybersécurité</h3>
+            <ul><li>Analyse de vulnérabilités</li><li>Sécurisation des postes et serveurs</li><li>Sensibilisation des utilisateurs</li><li>TryHackMe, HackTheBox</li></ul>
+          </div>
+          <div class="skill reveal">
+            <h3><span aria-hidden="true">☏</span> Support</h3>
+            <ul><li>Diagnostic matériel et logiciel</li><li>Assistance aux utilisateurs</li><li>Ticketing (GLPI)</li><li>Rédaction de procédures</li></ul>
+          </div>
+          <div class="skill reveal">
+            <h3><span aria-hidden="true">⌘</span> Scripts &amp; dev</h3>
+            <ul><li>PowerShell, Bash</li><li>Python</li><li>HTML, CSS, JavaScript, SQL</li><li>Git, GitHub, Docker</li></ul>
+          </div>
+          <div class="skill reveal">
+            <h3><span aria-hidden="true">✦</span> Savoir-être</h3>
+            <ul><li>Rigueur et sens du détail</li><li>Autonomie</li><li>Pédagogie avec les agents</li><li>Curiosité, veille continue</li></ul>
+          </div>
+        </div>
+
+        <div class="matrix reveal">
+          <h3>Tableau de synthèse — Bloc 1 : support et mise à disposition de services informatiques</h3>
+          <div class="matrix__scroll" tabindex="0" role="region" aria-label="Tableau de synthèse des compétences, défilable horizontalement">
+            <table>
+              <thead>
+                <tr>
+                  <th scope="col">Réalisation</th>
+                  <th scope="col"><abbr title="Gérer le patrimoine informatique">C1</abbr></th>
+                  <th scope="col"><abbr title="Répondre aux incidents et aux demandes d'assistance et d'évolution">C2</abbr></th>
+                  <th scope="col"><abbr title="Développer la présence en ligne de l'organisation">C3</abbr></th>
+                  <th scope="col"><abbr title="Travailler en mode projet">C4</abbr></th>
+                  <th scope="col"><abbr title="Mettre à disposition des utilisateurs un service informatique">C5</abbr></th>
+                  <th scope="col"><abbr title="Organiser son développement professionnel">C6</abbr></th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr><th scope="row">Inventaire &amp; gestion du parc <em>Mairie</em></th><td class="y">✓</td><td class="y">✓</td><td></td><td></td><td class="y">✓</td><td></td></tr>
+                <tr><th scope="row">Support aux agents <em>Mairie</em></th><td></td><td class="y">✓</td><td></td><td></td><td class="y">✓</td><td></td></tr>
+                <tr><th scope="row">Sensibilisation cybersécurité <em>Mairie</em></th><td></td><td></td><td></td><td class="y">✓</td><td class="y">✓</td><td class="y">✓</td></tr>
+                <tr><th scope="row">Réseau d'entreprise segmenté <em>Formation</em></th><td class="y">✓</td><td></td><td></td><td class="y">✓</td><td class="y">✓</td><td></td></tr>
+                <tr><th scope="row">Kit helpdesk niveau 1 <em>Formation</em></th><td class="y">✓</td><td class="y">✓</td><td></td><td></td><td class="y">✓</td><td></td></tr>
+                <tr><th scope="row">DB Autosphere <em>Personnel</em></th><td></td><td></td><td></td><td class="y">✓</td><td class="y">✓</td><td class="y">✓</td></tr>
+                <tr><th scope="row">Portfolio en ligne <em>Personnel</em></th><td></td><td></td><td class="y">✓</td><td></td><td></td><td class="y">✓</td></tr>
+                <tr><th scope="row">Veille technologique <em>Formation</em></th><td></td><td></td><td></td><td></td><td></td><td class="y">✓</td></tr>
+              </tbody>
+            </table>
+          </div>
+          <ol class="matrix__legend">
+            <li><b>C1</b> Gérer le patrimoine informatique</li>
+            <li><b>C2</b> Répondre aux incidents et aux demandes d'assistance et d'évolution</li>
+            <li><b>C3</b> Développer la présence en ligne de l'organisation</li>
+            <li><b>C4</b> Travailler en mode projet</li>
+            <li><b>C5</b> Mettre à disposition des utilisateurs un service informatique</li>
+            <li><b>C6</b> Organiser son développement professionnel</li>
+          </ol>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ VEILLE ============ -->
+    <section class="section section--alt" id="veille">
+      <div class="container">
+        <header class="section__head reveal">
+          <p class="section__num">06</p>
+          <h2>Veille technologique</h2>
+          <p class="section__sub">Un sujet directement lié à mon alternance.</p>
+        </header>
+
+        <div class="veille">
+          <div class="veille__main reveal">
+            <p class="eyebrow">Sujet de veille 2026 – 2027</p>
+            <h3>La cybersécurité des collectivités territoriales</h3>
+            <p>Les communes sont devenues des cibles régulières des cyberattaques, en particulier des rançongiciels. Elles gèrent des données sensibles (état civil, urbanisme, données des familles) avec des moyens souvent limités. Ma veille suit les menaces qui les visent et les réponses concrètes qu'une petite collectivité peut mettre en place.</p>
+            <h4>Axes suivis</h4>
+            <ul class="checklist">
+              <li>Évolution des attaques par rançongiciel et hameçonnage visant le secteur public.</li>
+              <li>Dispositifs d'accompagnement de l'État pour les collectivités.</li>
+              <li>Bonnes pratiques applicables : sauvegardes hors ligne, MFA, mises à jour, sensibilisation.</li>
+              <li>Cadre réglementaire : RGPD et directive européenne NIS 2.</li>
+            </ul>
+          </div>
+          <aside class="veille__sources reveal">
+            <h4>Mes sources</h4>
+            <ul>
+              <li><a href="https://cyber.gouv.fr" target="_blank" rel="noopener">ANSSI</a><span>Guides et recommandations</span></li>
+              <li><a href="https://www.cert.ssi.gouv.fr" target="_blank" rel="noopener">CERT-FR</a><span>Alertes et avis de sécurité</span></li>
+              <li><a href="https://www.cybermalveillance.gouv.fr" target="_blank" rel="noopener">Cybermalveillance.gouv.fr</a><span>Assistance et prévention</span></li>
+              <li><a href="https://www.cnil.fr" target="_blank" rel="noopener">CNIL</a><span>Protection des données</span></li>
+              <li><a href="https://www.zdnet.fr" target="_blank" rel="noopener">ZDNet</a> / <a href="https://www.lemagit.fr" target="_blank" rel="noopener">LeMagIT</a><span>Actualité IT</span></li>
+            </ul>
+            <h4>Outils</h4>
+            <p>Flux RSS (Feedly), alertes Google, newsletters spécialisées.</p>
+          </aside>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ CONTACT ============ -->
+    <section class="section" id="contact">
+      <div class="container">
+        <div class="contact reveal">
+          <p class="section__num">07</p>
+          <h2>Me contacter</h2>
+          <p>Une question sur mon parcours, mes réalisations ou mon alternance ? Écrivez-moi.</p>
+          <div class="contact__links">
+            <a class="btn btn--primary" href="mailto:bahaaletaief@gmail.com">bahaaletaief@gmail.com</a>
+            <a class="btn btn--ghost" href="https://github.com/bahaaletaief-prog" target="_blank" rel="noopener">GitHub · bahaaletaief-prog</a>
+          </div>
+          <p class="contact__loc">Montpellier, France</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container footer__inner">
+      <p>© <span id="year">2026</span> Bahaa Letaief · Portfolio BTS SIO SISR</p>
+      <a href="#accueil">Retour en haut ↑</a>
+    </div>
+  </footer>
+
+  <script src="assets/js/main.js"></script>
+</body>
+</html>
