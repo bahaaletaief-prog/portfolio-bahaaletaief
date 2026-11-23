@@ -1,0 +1,375 @@
+{
+ "updatedAt": "2026-11-23T17:38:29Z",
+ "articles": [
+  {
+   "id": "d4bb98af80b2cba8",
+   "source": "CNIL",
+   "title": "Trophées des classes 2027 - Ensemble, tous protégés sur Internet !",
+   "link": "https://www.cnil.fr/fr/trophees-des-classes-2027",
+   "summary": "Le ministère de l’Éducation nationale et la CNIL organisent le concours Trophées des classes dont la thématique, pour cette édition 2027, est : « Comment je sécurise mes données personnelles en ligne ? ».",
+   "date": "2026-11-23T12:00:00Z",
+   "local": false
+  },
+  {
+   "id": "13c74830be8d6857",
+   "source": "CNIL",
+   "title": "Découvrez les lauréats du concours Trophées des classes 2026 « Comment je protège ma vie privée en ligne ? »",
+   "link": "https://www.cnil.fr/fr/trophees-des-classes-2026-laureats",
+   "summary": "La CNIL et le ministère de l’Éducation nationale dévoilent les classes gagnantes de l’édition 2026 des « Trophées des classes », un concours pour sensibiliser les élèves à leurs droits numériques et à la citoyenneté en ligne.",
+   "date": "2026-11-23T12:00:00Z",
+   "local": false
+  },
+  {
+   "id": "0904e5bc062a614a",
+   "source": "Le Monde Informatique",
+   "title": "Cyberattaque : la Banque Delubac & Cie déjoue une tentative de fraude mais subit une fuite de données",
+   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cyberattaque-la-banque-delubac-cie-dejoue-une-tentative-de-fraude-mais-subit-une-fuite-de-donnees",
+   "summary": "La Banque Delubac & Cie a été victime d'une intrusion dans ses systèmes d'information, détectée le vendredi 20 novembre. Selon l'établissement ardéchois, les attaquants ont tenté de réaliser des opérations financières frauduleuses, sans y…",
+   "date": "2026-11-23T11:16:34Z",
+   "local": false
+  },
+  {
+   "id": "62f07c643793ffe4",
+   "source": "LeMagIT",
+   "title": "Supply Chain IA : les fuites de secrets dans les infrastructures d’inférence",
+   "link": "https://www.lemagit.fr/actualites/366655292/Supply-Chain-IA-les-fuites-de-secrets-dans-les-infrastructures-dinference",
+   "summary": "L’analyse de la chaîne logistique de l’inférence IA révèle des failles structurelles et des compromissions de fournisseurs exposant les données clients. Une expérimentation de plusieurs mois en dresse une cartographie.",
+   "date": "2026-11-23T10:58:00Z",
+   "local": false
+  },
+  {
+   "id": "1d460438657663c0",
+   "source": "LeMagIT",
+   "title": "Ransomware : les frameworks offensifs agentiques sont entrés dans la danse",
+   "link": "https://www.lemagit.fr/actualites/366655137/Ransomware-les-frameworks-offensifs-agentiques-sont-entres-dans-la-danse",
+   "summary": "Les cybercriminels ne se contentent plus d’un usage superficiel des modèles d’IA générative : ils ont commencé à s’appuyer sur des frameworks offensifs agentiques tels qu’Artex.",
+   "date": "2026-11-23T10:55:00Z",
+   "local": true
+  },
+  {
+   "id": "53a19cfb8d1be9e6",
+   "source": "IT-Connect",
+   "title": "Microsoft Edge : avec le Lockdown Mode, Microsoft veut bloquer les attaques",
+   "link": "https://www.it-connect.fr/edge-lockdown-mode-webgl-webgpu/",
+   "summary": "Microsoft teste dans Edge Canary un Lockdown Mode qui bloque WebGL et WebGPU pour contrer les attaques ciblées. Voici ce qu'il faut savoir sur ce mode. Le post Microsoft Edge : avec le Lockdown Mode, Microsoft veut bloquer les attaques a…",
+   "date": "2026-11-23T10:30:00Z",
+   "local": false
+  },
+  {
+   "id": "8ed6e6fdd5250971",
+   "source": "ZDNet",
+   "title": "IA : pourquoi les méthodes historiques d'Apple l'empêchent de rattraper son retard",
+   "link": "https://www.zdnet.fr/actualites/ia-pourquoi-les-methodes-historiques-dapple-lempechent-de-rattraper-son-retard-508401.htm#xtor=RSS-1",
+   "summary": "Alors que les géants de la tech accélèrent dans les agents IA, Apple reste prisonnier de ses cycles de développement traditionnels. Une organisation qui pourrait ralentir la transformation de Siri en véritable assistant intelligent, au…",
+   "date": "2026-11-23T10:11:32Z",
+   "local": false
+  },
+  {
+   "id": "e88f473dac98800a",
+   "source": "IT-Connect",
+   "title": "GTA 6 sur PC : le projet Leonida tente de recompiler la version Xbox qui a fuité",
+   "link": "https://www.it-connect.fr/gta-6-pc-leonida-fuite-xbox-cyberleek/",
+   "summary": "Le projet open source Leonida veut faire tourner sous Windows la version Xbox de GTA 6 diffusée par Cyberleek. Mais le jeu ne démarre pas encore. Le post GTA 6 sur PC : le projet Leonida tente de recompiler la version Xbox qui a fuité a…",
+   "date": "2026-11-23T09:23:56Z",
+   "local": false
+  },
+  {
+   "id": "f8700de601126365",
+   "source": "ZDNet",
+   "title": "ZD Tech : L'IA du fisc scrute vos comptes Vinted et LinkedIn",
+   "link": "https://www.zdnet.fr/actualites/zd-tech-lia-du-fisc-scrute-vos-comptes-vinted-et-linkedin-507405.htm#xtor=RSS-1",
+   "summary": "L'administration fiscale croise désormais vos données avec celles des banques et des plateformes comme LinkedIn. Si l'intelligence artificielle cible 60% des contrôles, les inspecteurs humains restent indispensables pour débusquer la…",
+   "date": "2026-11-23T08:11:23Z",
+   "local": false
+  },
+  {
+   "id": "62c1d68859d5698f",
+   "source": "IT-Connect",
+   "title": "GL.iNet : des pirates ont exploité le cloud GoodCloud pour infecter des routeurs et des KVM",
+   "link": "https://www.it-connect.fr/gl-inet-goodcloud-routeurs-kvm-malware/",
+   "summary": "GL.iNet confirme qu'une faille de son cloud GoodCloud a servi à installer un malware sur des routeurs et des KVM. Voici ce qu'il faut savoir. Le post GL.iNet : des pirates ont exploité le cloud GoodCloud pour infecter des routeurs et des…",
+   "date": "2026-11-23T07:49:13Z",
+   "local": false
+  },
+  {
+   "id": "08201467cdbab09f",
+   "source": "ZDNet",
+   "title": "Martin Hosken, Red Hat : La transformation du secteur public doit être suffisamment flexible pour permettre une modernisation à n’importe quelle échelle",
+   "link": "https://www.zdnet.fr/tribune/martin-hosken-red-hat-la-transformation-du-secteur-public-doit-etre-suffisamment-flexible-pour-permettre-une-modernisation-a-nimporte-quelle-echelle-508197.htm#xtor=RSS-1",
+   "summary": "Entre exigences de souveraineté, réglementation européenne et systèmes hérités, moderniser sans perdre le contrôle des données reste un défi pour les administrations publiques. Martin Hosken, Technical Director, Defence & National…",
+   "date": "2026-11-23T05:11:30Z",
+   "local": true
+  },
+  {
+   "id": "6feab419dc2010e5",
+   "source": "ZDNet",
+   "title": "Nvidia réintègre Jensen Huang, l'action bondit de plus de 30 %",
+   "link": "https://www.zdnet.fr/actualites/nvidia-reintegre-jensen-huang-laction-bondit-de-27-508435.htm#xtor=RSS-1",
+   "summary": "Le conseil d'administration de Nvidia a voté à l'unanimité le retour de Jensen Huang au poste de CEO. Ce retour aux manettes est validé par les autorités américaines, propulse le titre en bourse.",
+   "date": "2026-11-23T04:11:29Z",
+   "local": false
+  },
+  {
+   "id": "20330b30a07c4245",
+   "source": "ZDNet",
+   "title": "Cybersécurité et IA : après sa traversée du désert, la nouvelle vie de Mark Karpelès",
+   "link": "https://www.zdnet.fr/actualites/cybersecurite-et-ia-apres-sa-traversee-du-desert-la-nouvelle-vie-de-mark-karpeles-507622.htm#xtor=RSS-1",
+   "summary": "Autrefois à la tête de Mt.Gox, le célèbre geek français qui vit au Japon a refait récemment parler de lui en disséquant des implants suspects dans des matériels Ledger.",
+   "date": "2026-11-23T04:11:22Z",
+   "local": false
+  },
+  {
+   "id": "3d78d34e7ac4d1c3",
+   "source": "ZDNet",
+   "title": "GitHub et Microsoft envoient des correctifs à six projets open source",
+   "link": "https://www.zdnet.fr/blogs/l-esprit-libre/github-et-microsoft-envoient-des-correctifs-a-six-projets-open-source-508383.htm#xtor=RSS-1",
+   "summary": "Face à l’afflux de signalements de sécurité générés par IA, le projet Codename MDASH modifie des rapports de vulnérabilité en y incluant des propositions de correctifs.",
+   "date": "2026-11-21T10:11:48Z",
+   "local": false
+  },
+  {
+   "id": "1ede33b9310a88a8",
+   "source": "IT-Connect",
+   "title": "Windows 11 KB5132057 : la nouvelle fonction de recherche exécute des actions !",
+   "link": "https://www.it-connect.fr/windows-11-kb5132057-nouvelle-recherche-connexion-web/",
+   "summary": "KB5132057 : nouvelle recherche Windows 11, boîte Exécuter modernisée et connexion web sur les postes hybrides. Voici l'essentiel à savoir sur cette mise à jour. Le post Windows 11 KB5132057 : la nouvelle fonction de recherche exécute des…",
+   "date": "2026-11-20T15:34:06Z",
+   "local": false
+  },
+  {
+   "id": "4c7dec2cc4303190",
+   "source": "LeMagIT",
+   "title": "Ransomware : le FBI piège un arnaqueur qui prétendait pouvoir déchiffrer",
+   "link": "https://www.lemagit.fr/actualites/366655114/Ransomware-le-FBI-piege-un-arnaqueur-qui-pretendait-pouvoir-dechiffrer",
+   "summary": "Le piège s’est refermé avec l’intervention de deux agents, l’un se faisant passer pour une victime de rançongiciel et l’autre… pour le cybercriminel ayant conduit la prétendue attaque.",
+   "date": "2026-11-20T12:13:00Z",
+   "local": true
+  },
+  {
+   "id": "92b13b4229234d6d",
+   "source": "CNIL",
+   "title": "IA et éducation : une résolution mondiale pour la protection des données",
+   "link": "https://www.cnil.fr/fr/gpa-ia-education",
+   "summary": "En novembre 2026, l’Assemblée mondiale pour la protection de la vie privée (Global Privacy Assembly) a adopté une résolution sur l’intelligence artificielle dans le secteur de l’éducation. La CNIL revient sur les onze principes clés et…",
+   "date": "2026-11-20T12:00:00Z",
+   "local": false
+  },
+  {
+   "id": "273e9c9aab7f2757",
+   "source": "CNIL",
+   "title": "48e Assemblée mondiale pour la protection de la vie privée (GPA)",
+   "link": "https://www.cnil.fr/fr/48e-gpa",
+   "summary": "L’Assemblée mondiale pour la protection de la vie privée (ou Global Privacy Assembly), qui rassemble plus de 130 autorités de protection des données de plus de 80 pays, a adopté cinq résolutions dont deux sur l’Intelligence artificielle…",
+   "date": "2026-11-20T12:00:00Z",
+   "local": false
+  },
+  {
+   "id": "1151306e586d0437",
+   "source": "CNIL",
+   "title": "Pixels de suivi dans les courriels : la CNIL sollicite un premier retour d’expérience sur sa recommandation",
+   "link": "https://www.cnil.fr/fr/recommandation-pixels-retour-dexperience",
+   "summary": "Le 14 avril 2026, la CNIL a publié sa recommandation sur les pixels de suivi dans les courriels. Elle invite désormais les acteurs concernés, expéditeurs de messages et fournisseurs de solutions, à effectuer un retour d’expérience…",
+   "date": "2026-11-20T12:00:00Z",
+   "local": false
+  },
+  {
+   "id": "dfa696c289bce396",
+   "source": "IT-Connect",
+   "title": "FastUnlock : une faille zero-day Windows 11 contourne l’écran de verrouillage et menace BitLocker",
+   "link": "https://www.it-connect.fr/fastunlock-zero-day-windows-11-bitlocker-narrateur/",
+   "summary": "FastUnlock, nouvelle zero-day publiée par Nightmare Eclipse, contourne l'écran de verrouillage de Windows 11 via le Narrateur et menace BitLocker. Le post FastUnlock : une faille zero-day Windows 11 contourne l’écran de verrouillage et…",
+   "date": "2026-11-20T11:06:58Z",
+   "local": false
+  },
+  {
+   "id": "5bdbc8d046aabd5c",
+   "source": "LeMagIT",
+   "title": "OVHai Workspace : la suite collaborative nourrit la feuille de route IA d’OVHcloud",
+   "link": "https://www.lemagit.fr/actualites/366655152/OVHai-Workspace-la-suite-collaborative-nourrit-la-feuille-de-route-IA-dOVHcloud",
+   "summary": "La suite collaborative infusée à l’IA du fournisseur français débarque en accès anticipé. Elle doit encore faire ses preuves. En attendant, les fonctionnalités d’IA agentique conçues pour l’occasion sont converties en services managés…",
+   "date": "2026-11-20T10:54:00Z",
+   "local": false
+  },
+  {
+   "id": "2924444e68126fb8",
+   "source": "LeMagIT",
+   "title": "Cyberhebdo du 20 novembre 2026 : deux énergéticiens norvégiens attaqués",
+   "link": "https://www.lemagit.fr/actualites/366655112/Cyberhebdo-du-20-novembre-2026",
+   "summary": "Chaque semaine, dans le Cyberhebdo, nous vous présentons une liste aussi exhaustive que possible des cyberattaques évoquées par la presse dans le monde entier.",
+   "date": "2026-11-20T08:59:00Z",
+   "local": false
+  },
+  {
+   "id": "8127d47eb7697c50",
+   "source": "LeMagIT",
+   "title": "LLM : avec Olala, OVH se prépare à se jeter dans le grand bain",
+   "link": "https://www.lemagit.fr/actualites/366655032/LLM-avec-Olala-OVH-se-prepare-a-se-jeter-dans-le-grand-bain",
+   "summary": "Olala-v1.0-mini est à la fois le premier LLM d’OVH et le dernier de DragonLLM, devenu OVHai LLM. Si le petit modèle a déjà prouvé son utilité chez Qwant, deux chantiers d’envergure attendent le laboratoire d’IA adossé au fournisseur cloud…",
+   "date": "2026-11-20T02:23:00Z",
+   "local": false
+  },
+  {
+   "id": "1f0604e7229fda28",
+   "source": "Le Monde Informatique",
+   "title": "Présidentielle 2027 : Numeum propose cinq mesures pour renforcer la souveraineté numérique française",
+   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/presidentielle-2027-numeum-propose-cinq-mesures-pour-renforcer-la-souverainete-numerique-francaise",
+   "summary": "À l’approche de l’élection présidentielle de 2027, Numeum présente cinq propositions pour faire de la France et de l’Europe une puissance industrielle numérique. Le syndicat professionnel appelle notamment à porter les dépenses de…",
+   "date": "2026-11-19T09:27:33Z",
+   "local": false
+  },
+  {
+   "id": "3898d22047068d2e",
+   "source": "CNIL",
+   "title": "Le Groupe VYV et la CNIL publient « La Voix des jeunesses » : une enquête pour éclairer les usages de l’IA conversationnelle",
+   "link": "https://www.cnil.fr/fr/ia-conversationnelle-la-voix-des-jeunesses",
+   "summary": "Alors que près d’un jeune sur deux se confie à une IA sur des sujets intimes, avec le livret « La Voix des jeunesses », le Groupe VYV, premier acteur mutualiste de santé et de protection sociale en France, et la CNIL croisent enquête…",
+   "date": "2026-11-18T12:00:00Z",
+   "local": false
+  },
+  {
+   "id": "ce0564a7af282b06",
+   "source": "Le Monde Informatique",
+   "title": "Cursor : une clé volée chez Fireworks AI à l’origine d’une cyberattaque",
+   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cursor-une-cle-volee-chez-fireworks-ai-a-l-origine",
+   "summary": "Cursor a détaillé les circonstances de la cyberattaque ayant permis la diffusion d’une version malveillante de l’extension Claude Code sur sa marketplace. Dans un rapport publié le 13 novembre 2026, l’éditeur affirme qu’une clé d’accès…",
+   "date": "2026-11-16T07:39:57Z",
+   "local": false
+  },
+  {
+   "id": "07ffd638182c3f0e",
+   "source": "Le Monde Informatique",
+   "title": "PostgreSQL corrige 52 failles, dont une vieille de 22 ans",
+   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/postgresql-corrige-52-failles-dont-une-vieille-de-",
+   "summary": "Le PostgreSQL Global Development Group a publié, le 12 novembre 2026, des mises à jour corrigeant 52 vulnérabilités de sécurité, dont 32 affichent un score CVSS de 8,8. Parmi elles, CVE-2026-6460 permet une exécution de code arbitraire…",
+   "date": "2026-11-16T07:38:50Z",
+   "local": false
+  },
+  {
+   "id": "f0e61f2ed32e5373",
+   "source": "Le Monde Informatique",
+   "title": "Rennes va accueillir un centre international dédié à l’IA de défense",
+   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/rennes-va-accueillir-un-centre-international-dedie",
+   "summary": "Prévu pour l’été 2027, l’International Center for Artificial Intelligence in Defence (ICAID) réunira plusieurs pays alliés pour travailler sur le développement, l’évaluation et l’interopérabilité des systèmes d’IA militaires.",
+   "date": "2026-11-13T15:51:10Z",
+   "local": false
+  },
+  {
+   "id": "27f657f0b7e135ab",
+   "source": "Le Monde Informatique",
+   "title": "Cybersécurité : OpenAI enrichit Daybreak de deux outils d’IA pour traquer les failles",
+   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cybersecurite-openai-enrichit-daybreak-de-deux-out",
+   "summary": "OpenAI étoffe sa plateforme de cybersécurité Daybreak avec deux solutions reposant sur des agents d’intelligence artificielle. Présentés le 12 novembre 2026, Daybreak Red Team et Daybreak Defense Factory visent respectivement à…",
+   "date": "2026-11-13T06:37:37Z",
+   "local": false
+  },
+  {
+   "id": "2f1590c92fc71b4b",
+   "source": "CERT-FR · actualités",
+   "title": "Bulletin d'actualité CERTFR-2026-ACT-015 (07 avril 2026)",
+   "link": "https://www.cert.cyber.gouv.fr/actualite/CERTFR-2026-ACT-015/",
+   "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre…",
+   "date": "2026-04-07T00:00:00Z",
+   "local": false
+  },
+  {
+   "id": "538698ff5f7aa72b",
+   "source": "CERT-FR · actualités",
+   "title": "Expiration de certificats Secure Boot en juin 2026 (02 avril 2026)",
+   "link": "https://www.cert.cyber.gouv.fr/actualite/CERTFR-2026-ACT-014/",
+   "summary": "Le démarrage sécurisé (UEFI Secure Boot) est une fonctionnalité de sécurité disponible sur les ordinateurs PC clients et serveurs depuis 2011. Son rôle est de sécuriser la séquence de démarrage de l’appareil, en vérifiant l’intégrité du…",
+   "date": "2026-04-02T00:00:00Z",
+   "local": false
+  },
+  {
+   "id": "9e345114268a3992",
+   "source": "CERT-FR · actualités",
+   "title": "Bulletin d'actualité CERTFR-2026-ACT-013 (30 mars 2026)",
+   "link": "https://www.cert.cyber.gouv.fr/actualite/CERTFR-2026-ACT-013/",
+   "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre…",
+   "date": "2026-03-30T00:00:00Z",
+   "local": false
+  },
+  {
+   "id": "af04d271d2bf5a99",
+   "source": "CERT-FR · actualités",
+   "title": "Vulnérabilité dans telnetd (21 janvier 2026)",
+   "link": "https://www.cert.cyber.gouv.fr/actualite/CERTFR-2026-ACT-003/",
+   "summary": "Le 20 janvier 2026, les détails de la vulnérabilité CVE-2026-24061, affectant *telnetd*, ont été publiés. Cette vulnérabilité permet à un attaquant de contourner l'authentification et de se connecter à une machine vulnérable en tant que…",
+   "date": "2026-01-21T00:00:00Z",
+   "local": false
+  },
+  {
+   "id": "0e0adda75a11b84a",
+   "source": "CERT-FR · alertes",
+   "title": "[MàJ] Vulnérabilités affectant OpenPrinting CUPS (27 septembre 2024)",
+   "link": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-012/",
+   "summary": "**[Mise à jour du 10 octobre 2024]** Le 28 septembre 2024, Elastic Security Labs a publié des règles de détection au format propriétaire de l'éditeur (cf. section Documentation), qui sont confirmées par les analyses du CERT-FR pour la…",
+   "date": "2024-09-27T00:00:00Z",
+   "local": false
+  },
+  {
+   "id": "00ab4fd83498bf66",
+   "source": "CERT-FR · alertes",
+   "title": "Vulnérabilité dans SonicWall (10 septembre 2024)",
+   "link": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-011/",
+   "summary": "Le 22 août 2024, Sonicwall a publié un correctif concernant la vulnérabilité critique CVE-2024-40766 affectant les pare-feux Sonicwall génération 5, 6 et 7. Cette vulnérabilité, de type contrôle d'accès défaillant, permet à un attaquant…",
+   "date": "2024-09-10T00:00:00Z",
+   "local": false
+  },
+  {
+   "id": "467b24ba11015920",
+   "source": "CERT-FR · alertes",
+   "title": "Multiples vulnérabilités dans Roundcube (09 août 2024)",
+   "link": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-010/",
+   "summary": "Le 4 août 2024, Roundcube a publié des correctifs concernant les vulnérabilités critiques CVE-2024-42008 et CVE-2024-42009 affectant son serveur de courriel. Ces vulnérabilités permettent des injections de code indirectes à distance (XSS)…",
+   "date": "2024-08-09T00:00:00Z",
+   "local": false
+  },
+  {
+   "id": "9e61c45d9f7c7008",
+   "source": "CERT-FR · alertes",
+   "title": "Vulnérabilité dans OpenSSH (01 juillet 2024)",
+   "link": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-009/",
+   "summary": "Le 1 juillet 2024, OpenSSH a publié un avis de sécurité concernant la vulnérabilité critique CVE-2024-6387. Cette vulnérabilité permet à un attaquant non authentifié d'exécuter du code arbitraire à distance avec les privilèges *root*.…",
+   "date": "2024-07-01T00:00:00Z",
+   "local": false
+  },
+  {
+   "id": "acfcae3d6a41ea3f",
+   "source": "CERT-FR · alertes",
+   "title": "[MàJ] Vulnérabilité dans Palo Alto Networks GlobalProtect (12 avril 2024)",
+   "link": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-006/",
+   "summary": "\\[Mise à jour du 10 mai 2024\\] Le CERT-FR est intervenu pour le traitement d'une compromission par rançongiciel au sein d'une entité française. Dans le cadre de cette attaque, la vulnérabilité a été exploitée pour ensuite réaliser une…",
+   "date": "2024-04-12T00:00:00Z",
+   "local": true
+  },
+  {
+   "id": "97a33e5440915151",
+   "source": "CERT-FR · alertes",
+   "title": "Vulnérabilité dans Apple Mac OS X (24 juillet 2015)",
+   "link": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2015-ALE-009/",
+   "summary": "Une vulnérabilité a été découverte dans Apple Mac OS X. Elle permet à un attaquant de provoquer une élévation de privilèges.",
+   "date": "2015-07-24T00:00:00Z",
+   "local": false
+  },
+  {
+   "id": "59dda7bbb2f00f9f",
+   "source": "CERT-FR · actualités",
+   "title": "Bulletin d'actualité CERTFR-2015-ACT-006 (09 février 2015)",
+   "link": "https://www.cert.cyber.gouv.fr/actualite/CERTFR-2015-ACT-006/",
+   "summary": "1 - Rappel des vulnérabilités récentes dans Adobe Flash Player Adobe Flash Player est utilisé principalement par les navigateurs Internet pour afficher du contenu dynamique sur des pages web. Depuis le début de l'année, plusieurs…",
+   "date": "2015-02-09T00:00:00Z",
+   "local": false
+  },
+  {
+   "id": "031ac04586d3b6ed",
+   "source": "CERT-FR · actualités",
+   "title": "Bulletin d'actualité CERTFR-2014-ACT-004 (24 janvier 2014)",
+   "link": "https://www.cert.cyber.gouv.fr/actualite/CERTFR-2014-ACT-004/",
+   "summary": "1 - Création du CERT-FR Le 21 janvier 2014, le CERTA a changé de nom pour devenir le CERT-FR (Computer Emergency Response Team - France). Le CERT-FR est le CERT gouvernemental français. Il apporte son soutien en matière de gestion…",
+   "date": "2014-01-24T00:00:00Z",
+   "local": false
+  }
+ ],
+ "failed": []
+}
