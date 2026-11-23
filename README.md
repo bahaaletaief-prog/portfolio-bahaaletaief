@@ -1,31 +1,32 @@
 # Portfolio — Bahaa Letaief · BTS SIO SISR
 
-Site portfolio statique (HTML / CSS / JavaScript, sans dépendance) pour l'épreuve du BTS SIO option SISR.
+Site du portfolio : **https://bahaaletaief-prog.github.io/portfolio-bahaaletaief/**
 
-- 2025 – 2027 : BTS SIO SISR, MyDigitalSchool Montpellier
-- 02/2026 – 07/2026 : stage à la Mairie de Saint-Clément-de-Rivière
-- 2026 – 2027 : alternance à la Mairie de Saint-Clément-de-Rivière
+Étudiant en 2ᵉ année de BTS SIO option SISR à MyDigitalSchool Montpellier, en alternance à la Mairie de Saint-Clément-de-Rivière.
 
-## Structure
+Le site est un seul fichier HTML, CSS et JavaScript, sans framework. Le sommaire est un câble RJ45 en norme T568B : chaque fil mène à une page. On y trouve 18 fiches de réalisation, le tableau de synthèse E5 et une veille sur la cybersécurité des collectivités.
+
+## Fichiers
 
 ```
-index.html            page unique (profil, parcours, mairie, réalisations, compétences, veille, contact)
-assets/css/style.css  styles (thème clair / sombre automatique + bouton)
-assets/js/main.js     menu mobile, terminal animé, filtre des réalisations, animations
+index.html                    le site
+veille.json                   articles de veille affichés par le site
+scripts/fetch_veille.py       lit les flux RSS (CERT-FR, CNIL, LeMagIT, IT-Connect, ZDNet, Le Monde Informatique)
+.github/workflows/veille.yml  relance la lecture toutes les 4 heures et enregistre les nouveaux articles
 ```
+
+## Mise en ligne (GitHub Pages)
+
+1. **Settings → Pages → Build and deployment → Deploy from a branch**, branche `main`, dossier `/ (root)`.
+2. **Settings → Actions → General → Workflow permissions → Read and write permissions**, pour que la veille puisse enregistrer `veille.json`.
+3. **Actions → Mise à jour de la veille → Run workflow** pour une première mise à jour.
 
 ## Voir le site en local
 
-Ouvrir `index.html` dans un navigateur.
+Le fil de veille lit `veille.json` : il faut un petit serveur web.
 
-## Mettre le site en ligne avec GitHub Pages
+```
+python3 -m http.server 8000
+```
 
-1. Fusionner cette branche dans `main`.
-2. Sur GitHub : **Settings → Pages → Build and deployment → Source : Deploy from a branch**, branche `main`, dossier `/ (root)`.
-3. Le site sera disponible sur `https://bahaaletaief-prog.github.io/portfolio-bahaaletaief/`.
-
-## Modifier le contenu
-
-Tout le texte se trouve dans `index.html`, une section par bloc (`<!-- ============ MAIRIE ============ -->`, etc.).
-Pour ajouter une réalisation, dupliquer un bloc `<article class="project" data-cat="...">`
-(`data-cat` : `mairie`, `ecole` ou `perso`) et ajouter la ligne correspondante dans le tableau de synthèse.
+puis ouvrir http://localhost:8000.
