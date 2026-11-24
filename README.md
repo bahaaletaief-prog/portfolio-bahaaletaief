@@ -4,7 +4,7 @@ Site du portfolio : **https://bahaaletaief-prog.github.io/portfolio-bahaaletaief
 
 Étudiant en 2ᵉ année de BTS SIO option SISR à MyDigitalSchool Montpellier, en alternance à la Mairie de Saint-Clément-de-Rivière.
 
-Le site est un seul fichier HTML, CSS et JavaScript, sans framework. Le sommaire est un câble RJ45 en norme T568B : chaque fil mène à une page. On y trouve 18 fiches de réalisation, le tableau de synthèse E5 et une veille sur la cybersécurité des collectivités.
+Le site est un seul fichier HTML, CSS et JavaScript, sans framework. Le sommaire est un câble RJ45 en norme T568B : chaque fil mène à une page. On y trouve 6 fiches de réalisation, le tableau de synthèse E5 et une veille sur la cybersécurité des collectivités.
 
 ## Fichiers
 
