@@ -1,6 +1,96 @@
 {
- "updatedAt": "2026-11-24T04:50:41Z",
+ "updatedAt": "2026-11-24T19:33:54Z",
  "articles": [
+  {
+   "id": "f8c1236b452bad3f",
+   "source": "CNIL",
+   "title": "Acteurs du secteur de la livraison : comment définir les responsabilités au regard du RGPD ?",
+   "link": "https://www.cnil.fr/fr/acteurs-secteur-livraison-responsabilites",
+   "summary": "Dans le cadre de leurs activités, les professionnels de la livraison sont amenés à traiter des données personnelles. Dans la plupart des cas, la CNIL considère que le transporteur est responsable de traitement, mais ce n’est pas…",
+   "date": "2026-11-24T12:00:00Z",
+   "local": false
+  },
+  {
+   "id": "9363ed0d48037356",
+   "source": "Le Monde Informatique",
+   "title": "Cybersécurité : des failles Bluetooth permettent de contrôler à distance les freins de remorques",
+   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cybersecurite-des-failles-bluetooth-permettent-de-controler-a-distance-les-freins-de-remorques",
+   "summary": "Des chercheurs en cybersécurité ont découvert plusieurs vulnérabilités critiques dans les contrôleurs de freinage Bluetooth du fabricant australien Elecbrakes. Ces failles permettent à une personne située à portée du signal radio…",
+   "date": "2026-11-24T11:45:01Z",
+   "local": false
+  },
+  {
+   "id": "9a9fcc8bd904b706",
+   "source": "LeMagIT",
+   "title": "Cybersécurité : la CNIL est passée à la vitesse supérieure",
+   "link": "https://www.lemagit.fr/conseil/Cybersecurite-la-CNIL-est-passee-a-la-vitesse-superieure",
+   "summary": "Amendes records, injonctions sous astreinte et contrôles ciblés : en 2026, la CNIL a fait de la cybersécurité sa priorité absolue. Des grandes entreprises aux acteurs publics, les sanctions révèlent toujours les mêmes failles, pourtant…",
+   "date": "2026-11-24T11:32:00Z",
+   "local": false
+  },
+  {
+   "id": "de96bd7ef612ae52",
+   "source": "Le Monde Informatique",
+   "title": "IA et Cybersécurité : les entreprises contraintes de revoir leur priorités",
+   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/la-bataille-des-priorites-dans-les-budgets-it",
+   "summary": "Face au renchérissement des infrastructures et à la multiplication des projets d'IA, les entreprises doivent revoir leurs arbitrages numériques. Lors d'une table ronde organisée au TechShow Paris le 18 novembre, trois intervenants ont…",
+   "date": "2026-11-24T11:25:03Z",
+   "local": false
+  },
+  {
+   "id": "97768ae328019d23",
+   "source": "IT-Connect",
+   "title": "Google Chrome : une seule faille corrigée, mais elle est critique (CVE-2026-134401)",
+   "link": "https://www.it-connect.fr/cve-2026-134401-faille-critique-chrome/",
+   "summary": "Google a publié Chrome 158.0.8127.88 pour corriger la CVE-2026-134401, une faille critique qui permettrait de sortir de la sandbox : voici ce qu'il faut savoir. Le post Google Chrome : une seule faille corrigée, mais elle est critique…",
+   "date": "2026-11-24T10:33:39Z",
+   "local": false
+  },
+  {
+   "id": "1a2994afc50c251d",
+   "source": "ZDNet",
+   "title": "Nvidia : Donald Trump a pesé en coulisses sur le retour de Jensen Huang",
+   "link": "https://www.zdnet.fr/actualites/nvidia-donald-trump-a-pese-en-coulisses-sur-le-retour-de-jensen-huang-508468.htm#xtor=RSS-1",
+   "summary": "Quelques jours après avoir exclu tout retour de Jensen Huang à la tête de Nvidia, le conseil d’administration du géant américain des semi-conducteurs a fait volte-face sous la pression de Donald Trump.",
+   "date": "2026-11-24T10:11:22Z",
+   "local": false
+  },
+  {
+   "id": "b57dcc279e654f02",
+   "source": "LeMagIT",
+   "title": "Cyberattaques en Norvège : une vulnérabilité affectait Microsoft API Manager",
+   "link": "https://www.lemagit.fr/actualites/366655435/Cyberattaques-en-Norvege-une-vulnerabilite-affectait-Microsoft-API-Manager",
+   "summary": "La semaine dernière, deux énergéticiens norvégiens se déclaraient victimes d’une cyberattaque. La menace a été rapidement identifiée. Des secrets sont susceptibles d’avoir été compromis.",
+   "date": "2026-11-24T09:49:00Z",
+   "local": false
+  },
+  {
+   "id": "ac0941603296b55e",
+   "source": "Le Monde Informatique",
+   "title": "Règlementation : les entreprises doivent intégrer les contraintes dès la conception de leurs systèmes IT",
+   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/reglementation-les-entreprises-doivent-integrer-les-contraintes-des-la-conception-de-leurs-systemes-it",
+   "summary": "Avec l'accumulation des réglementations européennes, de l'IA Act à NIS 2 en passant par le RGPD et DORA, la conformité devient un enjeu structurant pour les directions IT. Lors d'une conférence organisée au TechShow Paris le 18 novembre,…",
+   "date": "2026-11-24T09:30:57Z",
+   "local": true
+  },
+  {
+   "id": "874b59c831027013",
+   "source": "LeMagIT",
+   "title": "CrowdStrike absorbe Zscaler : consolidation et convergence des plateformes",
+   "link": "https://www.lemagit.fr/actualites/366655452/CrowdStrike-absorbe-Zscaler-consolidation-et-convergence-des-plateformes",
+   "summary": "CrowdStrike acquiert Zscaler pour intégrer la sécurité réseau dans sa plateforme d’endpoint, cherchant à maîtriser les risques associés à l’intelligence artificielle.",
+   "date": "2026-11-24T04:37:00Z",
+   "local": false
+  },
+  {
+   "id": "c24ed0d573933423",
+   "source": "ZDNet",
+   "title": "Protéger dix PC avec Avast : ce que comprend l’abonnement Premium Security",
+   "link": "https://www.zdnet.fr/publicite/proteger-dix-pc-avec-avast-ce-que-comprend-labonnement-premium-security-507829.htm#xtor=RSS-1",
+   "summary": "Avec sa licence pour dix appareils et une remise de 60 % la première année, Avast One Premium Security peut couvrir plusieurs ordinateurs et mobiles au sein d’un même foyer.",
+   "date": "2026-11-24T04:11:56Z",
+   "local": false
+  },
   {
    "id": "8ba52b9073baaa3b",
    "source": "IT-Connect",
@@ -25,6 +115,15 @@
    "title": "Découvrez les lauréats du concours Trophées des classes 2026 « Comment je protège ma vie privée en ligne ? »",
    "link": "https://www.cnil.fr/fr/trophees-des-classes-2026-laureats",
    "summary": "La CNIL et le ministère de l’Éducation nationale dévoilent les classes gagnantes de l’édition 2026 des « Trophées des classes », un concours pour sensibiliser les élèves à leurs droits numériques et à la citoyenneté en ligne.",
+   "date": "2026-11-23T12:00:00Z",
+   "local": false
+  },
+  {
+   "id": "0e0c2dd30403fc27",
+   "source": "CNIL",
+   "title": "Contrôles de la CNIL : une charte pour tout comprendre",
+   "link": "https://www.cnil.fr/fr/controles-de-la-cnil-une-charte-pour-tout-comprendre",
+   "summary": "La CNIL peut effectuer des contrôles auprès de l’ensemble des organismes qui traitent des données personnelles. Afin d’assurer une plus grande transparence sur cette activité et favoriser le bon déroulement des investigations, la CNIL…",
    "date": "2026-11-23T12:00:00Z",
    "local": false
   },
@@ -83,15 +182,6 @@
    "local": false
   },
   {
-   "id": "62c1d68859d5698f",
-   "source": "IT-Connect",
-   "title": "GL.iNet : des pirates ont exploité le cloud GoodCloud pour infecter des routeurs et des KVM",
-   "link": "https://www.it-connect.fr/gl-inet-goodcloud-routeurs-kvm-malware/",
-   "summary": "GL.iNet confirme qu'une faille de son cloud GoodCloud a servi à installer un malware sur des routeurs et des KVM. Voici ce qu'il faut savoir. Le post GL.iNet : des pirates ont exploité le cloud GoodCloud pour infecter des routeurs et des…",
-   "date": "2026-11-23T07:49:13Z",
-   "local": false
-  },
-  {
    "id": "fbb379ecfe79c4e6",
    "source": "ZDNet",
    "title": "Le CHU de la Guadeloupe visé par une attaque par rançongiciel",
@@ -117,33 +207,6 @@
    "summary": "Entre exigences de souveraineté, réglementation européenne et systèmes hérités, moderniser sans perdre le contrôle des données reste un défi pour les administrations publiques. Martin Hosken, Technical Director, Defence & National…",
    "date": "2026-11-23T05:11:30Z",
    "local": true
-  },
-  {
-   "id": "6feab419dc2010e5",
-   "source": "ZDNet",
-   "title": "Nvidia réintègre Jensen Huang, l'action bondit de plus de 30 %",
-   "link": "https://www.zdnet.fr/actualites/nvidia-reintegre-jensen-huang-laction-bondit-de-27-508435.htm#xtor=RSS-1",
-   "summary": "Le conseil d'administration de Nvidia a voté à l'unanimité le retour de Jensen Huang au poste de CEO. Ce retour aux manettes est validé par les autorités américaines, propulse le titre en bourse.",
-   "date": "2026-11-23T04:11:29Z",
-   "local": false
-  },
-  {
-   "id": "20330b30a07c4245",
-   "source": "ZDNet",
-   "title": "Cybersécurité et IA : après sa traversée du désert, la nouvelle vie de Mark Karpelès",
-   "link": "https://www.zdnet.fr/actualites/cybersecurite-et-ia-apres-sa-traversee-du-desert-la-nouvelle-vie-de-mark-karpeles-507622.htm#xtor=RSS-1",
-   "summary": "Autrefois à la tête de Mt.Gox, le célèbre geek français qui vit au Japon a refait récemment parler de lui en disséquant des implants suspects dans des matériels Ledger.",
-   "date": "2026-11-23T04:11:22Z",
-   "local": false
-  },
-  {
-   "id": "1ede33b9310a88a8",
-   "source": "IT-Connect",
-   "title": "Windows 11 KB5132057 : la nouvelle fonction de recherche exécute des actions !",
-   "link": "https://www.it-connect.fr/windows-11-kb5132057-nouvelle-recherche-connexion-web/",
-   "summary": "KB5132057 : nouvelle recherche Windows 11, boîte Exécuter modernisée et connexion web sur les postes hybrides. Voici l'essentiel à savoir sur cette mise à jour. Le post Windows 11 KB5132057 : la nouvelle fonction de recherche exécute des…",
-   "date": "2026-11-20T15:34:06Z",
-   "local": false
   },
   {
    "id": "4c7dec2cc4303190",
@@ -173,42 +236,6 @@
    "local": false
   },
   {
-   "id": "1151306e586d0437",
-   "source": "CNIL",
-   "title": "Pixels de suivi dans les courriels : la CNIL sollicite un premier retour d’expérience sur sa recommandation",
-   "link": "https://www.cnil.fr/fr/recommandation-pixels-retour-dexperience",
-   "summary": "Le 14 avril 2026, la CNIL a publié sa recommandation sur les pixels de suivi dans les courriels. Elle invite désormais les acteurs concernés, expéditeurs de messages et fournisseurs de solutions, à effectuer un retour d’expérience…",
-   "date": "2026-11-20T12:00:00Z",
-   "local": false
-  },
-  {
-   "id": "5bdbc8d046aabd5c",
-   "source": "LeMagIT",
-   "title": "OVHai Workspace : la suite collaborative nourrit la feuille de route IA d’OVHcloud",
-   "link": "https://www.lemagit.fr/actualites/366655152/OVHai-Workspace-la-suite-collaborative-nourrit-la-feuille-de-route-IA-dOVHcloud",
-   "summary": "La suite collaborative infusée à l’IA du fournisseur français débarque en accès anticipé. Elle doit encore faire ses preuves. En attendant, les fonctionnalités d’IA agentique conçues pour l’occasion sont converties en services managés…",
-   "date": "2026-11-20T10:54:00Z",
-   "local": false
-  },
-  {
-   "id": "2924444e68126fb8",
-   "source": "LeMagIT",
-   "title": "Cyberhebdo du 20 novembre 2026 : deux énergéticiens norvégiens attaqués",
-   "link": "https://www.lemagit.fr/actualites/366655112/Cyberhebdo-du-20-novembre-2026",
-   "summary": "Chaque semaine, dans le Cyberhebdo, nous vous présentons une liste aussi exhaustive que possible des cyberattaques évoquées par la presse dans le monde entier.",
-   "date": "2026-11-20T08:59:00Z",
-   "local": false
-  },
-  {
-   "id": "8127d47eb7697c50",
-   "source": "LeMagIT",
-   "title": "LLM : avec Olala, OVH se prépare à se jeter dans le grand bain",
-   "link": "https://www.lemagit.fr/actualites/366655032/LLM-avec-Olala-OVH-se-prepare-a-se-jeter-dans-le-grand-bain",
-   "summary": "Olala-v1.0-mini est à la fois le premier LLM d’OVH et le dernier de DragonLLM, devenu OVHai LLM. Si le petit modèle a déjà prouvé son utilité chez Qwant, deux chantiers d’envergure attendent le laboratoire d’IA adossé au fournisseur cloud…",
-   "date": "2026-11-20T02:23:00Z",
-   "local": false
-  },
-  {
    "id": "1f0604e7229fda28",
    "source": "Le Monde Informatique",
    "title": "Présidentielle 2027 : Numeum propose cinq mesures pour renforcer la souveraineté numérique française",
@@ -218,48 +245,12 @@
    "local": false
   },
   {
-   "id": "3898d22047068d2e",
-   "source": "CNIL",
-   "title": "Le Groupe VYV et la CNIL publient « La Voix des jeunesses » : une enquête pour éclairer les usages de l’IA conversationnelle",
-   "link": "https://www.cnil.fr/fr/ia-conversationnelle-la-voix-des-jeunesses",
-   "summary": "Alors que près d’un jeune sur deux se confie à une IA sur des sujets intimes, avec le livret « La Voix des jeunesses », le Groupe VYV, premier acteur mutualiste de santé et de protection sociale en France, et la CNIL croisent enquête…",
-   "date": "2026-11-18T12:00:00Z",
-   "local": false
-  },
-  {
    "id": "ce0564a7af282b06",
    "source": "Le Monde Informatique",
    "title": "Cursor : une clé volée chez Fireworks AI à l’origine d’une cyberattaque",
    "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cursor-une-cle-volee-chez-fireworks-ai-a-l-origine",
    "summary": "Cursor a détaillé les circonstances de la cyberattaque ayant permis la diffusion d’une version malveillante de l’extension Claude Code sur sa marketplace. Dans un rapport publié le 13 novembre 2026, l’éditeur affirme qu’une clé d’accès…",
    "date": "2026-11-16T07:39:57Z",
-   "local": false
-  },
-  {
-   "id": "07ffd638182c3f0e",
-   "source": "Le Monde Informatique",
-   "title": "PostgreSQL corrige 52 failles, dont une vieille de 22 ans",
-   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/postgresql-corrige-52-failles-dont-une-vieille-de-",
-   "summary": "Le PostgreSQL Global Development Group a publié, le 12 novembre 2026, des mises à jour corrigeant 52 vulnérabilités de sécurité, dont 32 affichent un score CVSS de 8,8. Parmi elles, CVE-2026-6460 permet une exécution de code arbitraire…",
-   "date": "2026-11-16T07:38:50Z",
-   "local": false
-  },
-  {
-   "id": "f0e61f2ed32e5373",
-   "source": "Le Monde Informatique",
-   "title": "Rennes va accueillir un centre international dédié à l’IA de défense",
-   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/rennes-va-accueillir-un-centre-international-dedie",
-   "summary": "Prévu pour l’été 2027, l’International Center for Artificial Intelligence in Defence (ICAID) réunira plusieurs pays alliés pour travailler sur le développement, l’évaluation et l’interopérabilité des systèmes d’IA militaires.",
-   "date": "2026-11-13T15:51:10Z",
-   "local": false
-  },
-  {
-   "id": "27f657f0b7e135ab",
-   "source": "Le Monde Informatique",
-   "title": "Cybersécurité : OpenAI enrichit Daybreak de deux outils d’IA pour traquer les failles",
-   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cybersecurite-openai-enrichit-daybreak-de-deux-out",
-   "summary": "OpenAI étoffe sa plateforme de cybersécurité Daybreak avec deux solutions reposant sur des agents d’intelligence artificielle. Présentés le 12 novembre 2026, Daybreak Red Team et Daybreak Defense Factory visent respectivement à…",
-   "date": "2026-11-13T06:37:37Z",
    "local": false
   },
   {
