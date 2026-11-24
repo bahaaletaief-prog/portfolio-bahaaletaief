@@ -1,6 +1,15 @@
 {
- "updatedAt": "2026-11-23T17:38:29Z",
+ "updatedAt": "2026-11-24T04:50:41Z",
  "articles": [
+  {
+   "id": "8ba52b9073baaa3b",
+   "source": "IT-Connect",
+   "title": "Entra Connect Health : une faille exploitée a exposé les e-mails des admins de tenants Microsoft",
+   "link": "https://www.it-connect.fr/entra-connect-health-faille-exploitee-metadonnees-tenants/",
+   "summary": "Une faille dans l'API d'Entra Connect Health a été exploitée pour lire les métadonnées de tenants, dont les e-mails des admins. Voici ce qu'il faut savoir. Le post Entra Connect Health : une faille exploitée a exposé les e-mails des…",
+   "date": "2026-11-24T02:00:00Z",
+   "local": false
+  },
   {
    "id": "d4bb98af80b2cba8",
    "source": "CNIL",
@@ -26,6 +35,15 @@
    "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cyberattaque-la-banque-delubac-cie-dejoue-une-tentative-de-fraude-mais-subit-une-fuite-de-donnees",
    "summary": "La Banque Delubac & Cie a été victime d'une intrusion dans ses systèmes d'information, détectée le vendredi 20 novembre. Selon l'établissement ardéchois, les attaquants ont tenté de réaliser des opérations financières frauduleuses, sans y…",
    "date": "2026-11-23T11:16:34Z",
+   "local": false
+  },
+  {
+   "id": "92ef118df1b2b244",
+   "source": "ZDNet",
+   "title": "Web pratique : six paramètres de Chrome à choisir pour améliorer sa navigation",
+   "link": "https://www.zdnet.fr/pratique/web-pratique-six-parametres-de-chrome-a-choisir-pour-ameliorer-sa-navigation-508389.htm#xtor=RSS-1",
+   "summary": "Pour renforcer la confidentialité et la sécurité, réduire les interruptions et améliorer la productivité, voici les réglages par défaut du navigateur de Google à modifier.",
+   "date": "2026-11-23T11:11:54Z",
    "local": false
   },
   {
@@ -56,15 +74,6 @@
    "local": false
   },
   {
-   "id": "8ed6e6fdd5250971",
-   "source": "ZDNet",
-   "title": "IA : pourquoi les méthodes historiques d'Apple l'empêchent de rattraper son retard",
-   "link": "https://www.zdnet.fr/actualites/ia-pourquoi-les-methodes-historiques-dapple-lempechent-de-rattraper-son-retard-508401.htm#xtor=RSS-1",
-   "summary": "Alors que les géants de la tech accélèrent dans les agents IA, Apple reste prisonnier de ses cycles de développement traditionnels. Une organisation qui pourrait ralentir la transformation de Siri en véritable assistant intelligent, au…",
-   "date": "2026-11-23T10:11:32Z",
-   "local": false
-  },
-  {
    "id": "e88f473dac98800a",
    "source": "IT-Connect",
    "title": "GTA 6 sur PC : le projet Leonida tente de recompiler la version Xbox qui a fuité",
@@ -74,21 +83,30 @@
    "local": false
   },
   {
-   "id": "f8700de601126365",
-   "source": "ZDNet",
-   "title": "ZD Tech : L'IA du fisc scrute vos comptes Vinted et LinkedIn",
-   "link": "https://www.zdnet.fr/actualites/zd-tech-lia-du-fisc-scrute-vos-comptes-vinted-et-linkedin-507405.htm#xtor=RSS-1",
-   "summary": "L'administration fiscale croise désormais vos données avec celles des banques et des plateformes comme LinkedIn. Si l'intelligence artificielle cible 60% des contrôles, les inspecteurs humains restent indispensables pour débusquer la…",
-   "date": "2026-11-23T08:11:23Z",
-   "local": false
-  },
-  {
    "id": "62c1d68859d5698f",
    "source": "IT-Connect",
    "title": "GL.iNet : des pirates ont exploité le cloud GoodCloud pour infecter des routeurs et des KVM",
    "link": "https://www.it-connect.fr/gl-inet-goodcloud-routeurs-kvm-malware/",
    "summary": "GL.iNet confirme qu'une faille de son cloud GoodCloud a servi à installer un malware sur des routeurs et des KVM. Voici ce qu'il faut savoir. Le post GL.iNet : des pirates ont exploité le cloud GoodCloud pour infecter des routeurs et des…",
    "date": "2026-11-23T07:49:13Z",
+   "local": false
+  },
+  {
+   "id": "fbb379ecfe79c4e6",
+   "source": "ZDNet",
+   "title": "Le CHU de la Guadeloupe visé par une attaque par rançongiciel",
+   "link": "https://www.zdnet.fr/actualites/le-chu-de-la-guadeloupe-vise-par-une-attaque-par-rancongiciel-508447.htm#xtor=RSS-1",
+   "summary": "L’établissement de santé a activé son « Plan blanc » pour faire face à ce piratage informatique.",
+   "date": "2026-11-23T07:11:26Z",
+   "local": true
+  },
+  {
+   "id": "407610a3b1ab0f07",
+   "source": "ZDNet",
+   "title": "L'IA peut-elle aider à planifier des attentats terroristes ? Les États-Unis ont testé ChatGPT, Claude, Gemini et Grok pour le savoir",
+   "link": "https://www.zdnet.fr/actualites/lia-peut-elle-aider-a-planifier-des-attentats-terroristes-les-etats-unis-ont-teste-chatgpt-claude-gemini-et-grok-pour-le-savoir-508439.htm#xtor=RSS-1",
+   "summary": "Les chercheurs ont tenté de contourner les mécanismes de protection de l'IA pour générer des plans d'attaque terroriste. Les résultats mettent en évidence des failles de sécurité préoccupantes et soulèvent des questions quant à la…",
+   "date": "2026-11-23T07:11:13Z",
    "local": false
   },
   {
@@ -116,15 +134,6 @@
    "link": "https://www.zdnet.fr/actualites/cybersecurite-et-ia-apres-sa-traversee-du-desert-la-nouvelle-vie-de-mark-karpeles-507622.htm#xtor=RSS-1",
    "summary": "Autrefois à la tête de Mt.Gox, le célèbre geek français qui vit au Japon a refait récemment parler de lui en disséquant des implants suspects dans des matériels Ledger.",
    "date": "2026-11-23T04:11:22Z",
-   "local": false
-  },
-  {
-   "id": "3d78d34e7ac4d1c3",
-   "source": "ZDNet",
-   "title": "GitHub et Microsoft envoient des correctifs à six projets open source",
-   "link": "https://www.zdnet.fr/blogs/l-esprit-libre/github-et-microsoft-envoient-des-correctifs-a-six-projets-open-source-508383.htm#xtor=RSS-1",
-   "summary": "Face à l’afflux de signalements de sécurité générés par IA, le projet Codename MDASH modifie des rapports de vulnérabilité en y incluant des propositions de correctifs.",
-   "date": "2026-11-21T10:11:48Z",
    "local": false
   },
   {
@@ -170,15 +179,6 @@
    "link": "https://www.cnil.fr/fr/recommandation-pixels-retour-dexperience",
    "summary": "Le 14 avril 2026, la CNIL a publié sa recommandation sur les pixels de suivi dans les courriels. Elle invite désormais les acteurs concernés, expéditeurs de messages et fournisseurs de solutions, à effectuer un retour d’expérience…",
    "date": "2026-11-20T12:00:00Z",
-   "local": false
-  },
-  {
-   "id": "dfa696c289bce396",
-   "source": "IT-Connect",
-   "title": "FastUnlock : une faille zero-day Windows 11 contourne l’écran de verrouillage et menace BitLocker",
-   "link": "https://www.it-connect.fr/fastunlock-zero-day-windows-11-bitlocker-narrateur/",
-   "summary": "FastUnlock, nouvelle zero-day publiée par Nightmare Eclipse, contourne l'écran de verrouillage de Windows 11 via le Narrateur et menace BitLocker. Le post FastUnlock : une faille zero-day Windows 11 contourne l’écran de verrouillage et…",
-   "date": "2026-11-20T11:06:58Z",
    "local": false
   },
   {
