@@ -1,6 +1,78 @@
 {
- "updatedAt": "2026-11-24T19:33:54Z",
+ "updatedAt": "2026-11-25T14:33:26Z",
  "articles": [
+  {
+   "id": "dab3278ad1a49e11",
+   "source": "ZDNet",
+   "title": "Souveraineté numérique cyber : peut-être une priorité, mais pas encore une réalité",
+   "link": "https://www.zdnet.fr/actualites/souverainete-numerique-du-cyber-une-priorite-mais-pas-encore-une-realite-508566.htm#xtor=RSS-1",
+   "summary": "Le CESIN et le Campus Cyber se sont penchés sur la question des dépendances des entreprises sur le volet cyber. Et s'ils s'accordent à dire que le sujet est une priorité, les organisations ont encore du mal à concrétiser les discours dans…",
+   "date": "2026-11-25T11:11:29Z",
+   "local": false
+  },
+  {
+   "id": "fa02e34b4d20dfc9",
+   "source": "ZDNet",
+   "title": "ZDNET Morning 25/11/2026 : Souveraineté cyber en France et achats IT, Google met l'utilisateur dans les programmes TV, Le capital de Nvidia",
+   "link": "https://www.zdnet.fr/actualites/zdnet-morning-25-11-2026-souverainete-cyber-en-france-et-achats-it-google-met-lutilisateur-dans-les-programmes-tv-le-capital-de-nvidia-508596.htm#xtor=RSS-1",
+   "summary": "Le ZDNET Morning le brief de l'actu tech pour les pros tous les matins à 9h00. Transformation numérique, IA, matériel, logiciels,... ne passez pas à côté de ce qui fait la Une du secteur.",
+   "date": "2026-11-25T11:11:24Z",
+   "local": false
+  },
+  {
+   "id": "658ca4a79f333fa0",
+   "source": "ZDNet",
+   "title": "Jensen Huang : Trump évoque une grâce et une prise de participation des Etats-Unis dans Nvidia",
+   "link": "https://www.zdnet.fr/actualites/jensen-huang-trump-evoque-une-grace-et-une-prise-de-participation-de-letat-dans-nvidia-508578.htm#xtor=RSS-1",
+   "summary": "Avant ses auditions au Congrès les 1er et 3 décembre, Jensen Huang reçoit le soutien de Donald Trump, qui n’exclut pas de le gracier, tandis que le ministre de la Justice ne dit pas si le patron de Nvidia fait l’objet d’une enquête.",
+   "date": "2026-11-25T09:11:55Z",
+   "local": false
+  },
+  {
+   "id": "0c55f9c844ada926",
+   "source": "Le Monde Informatique",
+   "title": "Cyberattaques dopées à l’IA : IBM appelle les entreprises à anticiper les défaillances",
+   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cyberattaques-dopees-a-l-ia-ibm-appelle-les-entreprises-a-anticiper-les-defaillances",
+   "summary": "Face à l’accélération des cyberattaques liée à l’intelligence artificielle, les entreprises doivent revoir leurs stratégies de cybersécurité. Pour Mark Hughes, responsable mondial des services de cybersécurité d’IBM Consulting, les…",
+   "date": "2026-11-25T07:30:00Z",
+   "local": false
+  },
+  {
+   "id": "a6adbf24fd083c5b",
+   "source": "Le Monde Informatique",
+   "title": "Cyberattaque contre Ipsos : le groupe Qilin revendique un vol de données sensibles",
+   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cyberattaque-contre-ipsos-le-groupe-qilin-revendique-un-vol-de-donnees-sensibles",
+   "summary": "Le groupe de cybercriminels Qilin revendique une attaque contre Ipsos et affirme détenir des documents commerciaux appartenant au spécialiste français des études de marché. Plusieurs extraits de fichiers, qui mentionneraient notamment…",
+   "date": "2026-11-25T07:00:00Z",
+   "local": false
+  },
+  {
+   "id": "1933e8aeee0dc7f6",
+   "source": "Le Monde Informatique",
+   "title": "Collectivités territoriales : la cybersécurité passe par la mutualisation des moyens",
+   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/collectivites-territoriales-la-cybersecurite-passe-par-la-mutualisation-des-moyens",
+   "summary": "Les petites communes peinent encore à disposer des compétences et des ressources nécessaires pour protéger leurs systèmes d'information. Devant une commission du Sénat, l'ANSSI et le GIP ACYMA ont plaidé pour un accompagnement de…",
+   "date": "2026-11-25T07:00:00Z",
+   "local": true
+  },
+  {
+   "id": "d346c0e4d044a44f",
+   "source": "IT-Connect",
+   "title": "Cyberattaque Commission européenne : les noms et adresses e-mail des utilisateurs d’EU Academy ont fuité",
+   "link": "https://www.it-connect.fr/eu-academy-fuite-donnees-cyberattaque-commission-europeenne/",
+   "summary": "La Commission européenne confirme que la cyberattaque assistée par l'IA a touché EU Academy : noms et e-mails des utilisateurs ont fuité. Le post Cyberattaque Commission européenne : les noms et adresses e-mail des utilisateurs d’EU…",
+   "date": "2026-11-25T06:31:00Z",
+   "local": false
+  },
+  {
+   "id": "4442b0fa19e8804f",
+   "source": "IT-Connect",
+   "title": "VMware vCenter et ESX : trois nouvelles failles critiques, cinq jours après la faille zero-day",
+   "link": "https://www.it-connect.fr/vmware-vcenter-esx-cve-2026-123903-failles-novembre/",
+   "summary": "Cinq jours après la zero-day CVE-2026-123890, Broadcom corrige 23 failles VMware, dont la CVE-2026-123903 dans vCenter et deux failles critiques dans ESX. Le post VMware vCenter et ESX : trois nouvelles failles critiques, cinq jours après…",
+   "date": "2026-11-25T06:05:00Z",
+   "local": false
+  },
   {
    "id": "f8c1236b452bad3f",
    "source": "CNIL",
@@ -128,15 +200,6 @@
    "local": false
   },
   {
-   "id": "0904e5bc062a614a",
-   "source": "Le Monde Informatique",
-   "title": "Cyberattaque : la Banque Delubac & Cie déjoue une tentative de fraude mais subit une fuite de données",
-   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cyberattaque-la-banque-delubac-cie-dejoue-une-tentative-de-fraude-mais-subit-une-fuite-de-donnees",
-   "summary": "La Banque Delubac & Cie a été victime d'une intrusion dans ses systèmes d'information, détectée le vendredi 20 novembre. Selon l'établissement ardéchois, les attaquants ont tenté de réaliser des opérations financières frauduleuses, sans y…",
-   "date": "2026-11-23T11:16:34Z",
-   "local": false
-  },
-  {
    "id": "92ef118df1b2b244",
    "source": "ZDNet",
    "title": "Web pratique : six paramètres de Chrome à choisir pour améliorer sa navigation",
@@ -164,51 +227,6 @@
    "local": true
   },
   {
-   "id": "53a19cfb8d1be9e6",
-   "source": "IT-Connect",
-   "title": "Microsoft Edge : avec le Lockdown Mode, Microsoft veut bloquer les attaques",
-   "link": "https://www.it-connect.fr/edge-lockdown-mode-webgl-webgpu/",
-   "summary": "Microsoft teste dans Edge Canary un Lockdown Mode qui bloque WebGL et WebGPU pour contrer les attaques ciblées. Voici ce qu'il faut savoir sur ce mode. Le post Microsoft Edge : avec le Lockdown Mode, Microsoft veut bloquer les attaques a…",
-   "date": "2026-11-23T10:30:00Z",
-   "local": false
-  },
-  {
-   "id": "e88f473dac98800a",
-   "source": "IT-Connect",
-   "title": "GTA 6 sur PC : le projet Leonida tente de recompiler la version Xbox qui a fuité",
-   "link": "https://www.it-connect.fr/gta-6-pc-leonida-fuite-xbox-cyberleek/",
-   "summary": "Le projet open source Leonida veut faire tourner sous Windows la version Xbox de GTA 6 diffusée par Cyberleek. Mais le jeu ne démarre pas encore. Le post GTA 6 sur PC : le projet Leonida tente de recompiler la version Xbox qui a fuité a…",
-   "date": "2026-11-23T09:23:56Z",
-   "local": false
-  },
-  {
-   "id": "fbb379ecfe79c4e6",
-   "source": "ZDNet",
-   "title": "Le CHU de la Guadeloupe visé par une attaque par rançongiciel",
-   "link": "https://www.zdnet.fr/actualites/le-chu-de-la-guadeloupe-vise-par-une-attaque-par-rancongiciel-508447.htm#xtor=RSS-1",
-   "summary": "L’établissement de santé a activé son « Plan blanc » pour faire face à ce piratage informatique.",
-   "date": "2026-11-23T07:11:26Z",
-   "local": true
-  },
-  {
-   "id": "407610a3b1ab0f07",
-   "source": "ZDNet",
-   "title": "L'IA peut-elle aider à planifier des attentats terroristes ? Les États-Unis ont testé ChatGPT, Claude, Gemini et Grok pour le savoir",
-   "link": "https://www.zdnet.fr/actualites/lia-peut-elle-aider-a-planifier-des-attentats-terroristes-les-etats-unis-ont-teste-chatgpt-claude-gemini-et-grok-pour-le-savoir-508439.htm#xtor=RSS-1",
-   "summary": "Les chercheurs ont tenté de contourner les mécanismes de protection de l'IA pour générer des plans d'attaque terroriste. Les résultats mettent en évidence des failles de sécurité préoccupantes et soulèvent des questions quant à la…",
-   "date": "2026-11-23T07:11:13Z",
-   "local": false
-  },
-  {
-   "id": "08201467cdbab09f",
-   "source": "ZDNet",
-   "title": "Martin Hosken, Red Hat : La transformation du secteur public doit être suffisamment flexible pour permettre une modernisation à n’importe quelle échelle",
-   "link": "https://www.zdnet.fr/tribune/martin-hosken-red-hat-la-transformation-du-secteur-public-doit-etre-suffisamment-flexible-pour-permettre-une-modernisation-a-nimporte-quelle-echelle-508197.htm#xtor=RSS-1",
-   "summary": "Entre exigences de souveraineté, réglementation européenne et systèmes hérités, moderniser sans perdre le contrôle des données reste un défi pour les administrations publiques. Martin Hosken, Technical Director, Defence & National…",
-   "date": "2026-11-23T05:11:30Z",
-   "local": true
-  },
-  {
    "id": "4c7dec2cc4303190",
    "source": "LeMagIT",
    "title": "Ransomware : le FBI piège un arnaqueur qui prétendait pouvoir déchiffrer",
@@ -233,24 +251,6 @@
    "link": "https://www.cnil.fr/fr/48e-gpa",
    "summary": "L’Assemblée mondiale pour la protection de la vie privée (ou Global Privacy Assembly), qui rassemble plus de 130 autorités de protection des données de plus de 80 pays, a adopté cinq résolutions dont deux sur l’Intelligence artificielle…",
    "date": "2026-11-20T12:00:00Z",
-   "local": false
-  },
-  {
-   "id": "1f0604e7229fda28",
-   "source": "Le Monde Informatique",
-   "title": "Présidentielle 2027 : Numeum propose cinq mesures pour renforcer la souveraineté numérique française",
-   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/presidentielle-2027-numeum-propose-cinq-mesures-pour-renforcer-la-souverainete-numerique-francaise",
-   "summary": "À l’approche de l’élection présidentielle de 2027, Numeum présente cinq propositions pour faire de la France et de l’Europe une puissance industrielle numérique. Le syndicat professionnel appelle notamment à porter les dépenses de…",
-   "date": "2026-11-19T09:27:33Z",
-   "local": false
-  },
-  {
-   "id": "ce0564a7af282b06",
-   "source": "Le Monde Informatique",
-   "title": "Cursor : une clé volée chez Fireworks AI à l’origine d’une cyberattaque",
-   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cursor-une-cle-volee-chez-fireworks-ai-a-l-origine",
-   "summary": "Cursor a détaillé les circonstances de la cyberattaque ayant permis la diffusion d’une version malveillante de l’extension Claude Code sur sa marketplace. Dans un rapport publié le 13 novembre 2026, l’éditeur affirme qu’une clé d’accès…",
-   "date": "2026-11-16T07:39:57Z",
    "local": false
   },
   {
