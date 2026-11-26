@@ -1,6 +1,78 @@
 {
- "updatedAt": "2026-11-26T00:30:10Z",
+ "updatedAt": "2026-11-26T13:59:58Z",
  "articles": [
+  {
+   "id": "e9dc606b587feefb",
+   "source": "Le Monde Informatique",
+   "title": "Cyberattaque : la FIFA confirme le vol de données personnelles et professionnelles",
+   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cyberattaque-la-fifa-confirme-le-vol-de-donnees-personnelles-et-professionnelles",
+   "summary": "La Fédération internationale de football (FIFA) a été victime d'une cyberattaque ayant permis à des pirates d'accéder à des informations personnelles et professionnelles. l'organisation assure que les documents liés à son projet…",
+   "date": "2026-11-26T13:46:15Z",
+   "local": false
+  },
+  {
+   "id": "0a9ef7b2dc31d0ed",
+   "source": "Le Monde Informatique",
+   "title": "1Password victime d'une intrusion via GitHub",
+   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/1password-victime-d-une-intrusion-via-github",
+   "summary": "Le gestionnaire de mots de passe a subi une compromission de ses systèmes internes à la suite du piratage d'un compte GitHub d'entreprise. Si les coffres-forts chiffrés n'ont pas été affectés, des informations personnelles et des données…",
+   "date": "2026-11-26T10:28:36Z",
+   "local": false
+  },
+  {
+   "id": "a8c0a5b3d64967b3",
+   "source": "ZDNet",
+   "title": "Artex et les autres : ces « frameworks » offensifs basés sur l’IA qui accélèrent le tempo de la menace",
+   "link": "https://www.zdnet.fr/actualites/artex-et-les-autres-ces-frameworks-offensifs-bases-sur-lia-qui-accelerent-le-tempo-de-la-menace-508642.htm#xtor=RSS-1",
+   "summary": "Derrière Artex, cet outil qui permet d’automatiser des attaques, plusieurs dizaines d’autres « frameworks » ont également été identifiés. Autant d’outils qui permettent aux attaquants de prendre de vitesse les défenseurs.",
+   "date": "2026-11-26T10:11:38Z",
+   "local": false
+  },
+  {
+   "id": "d595995231ea72ae",
+   "source": "ZDNet",
+   "title": "ZDNET Morning 26/11/2026 : Incident de sécurité chez 1Password, Le secteur financier évalue le quantique, Starmind : un réseau de datacenters IA en orbite,...",
+   "link": "https://www.zdnet.fr/actualites/zdnet-morning-26-11-2026-incident-de-securite-chez-1password-le-secteur-financier-evalue-le-quantique-starmind-un-reseau-de-datacenters-ia-en-orbite-508680.htm#xtor=RSS-1",
+   "summary": "Le ZDNET Morning le brief de l'actu tech pour les pros tous les matins à 9h00. Transformation numérique, IA, matériel, logiciels,... ne passez pas à côté de ce qui fait la Une du secteur.",
+   "date": "2026-11-26T10:11:33Z",
+   "local": false
+  },
+  {
+   "id": "7d5dfac398ee8691",
+   "source": "Le Monde Informatique",
+   "title": "De faux tests de recrutement ciblent les développeurs .NET via NuGet",
+   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/de-faux-tests-de-recrutement-ciblent-les-developpeurs-net-via-nuget",
+   "summary": "Une campagne malveillante cible les développeurs .NET en diffusant de faux exercices techniques de recrutement contenant des dépendances NuGet compromises. Dans un rapport publié le 23 novembre 2026, Socket indique avoir identifié 13…",
+   "date": "2026-11-26T08:15:00Z",
+   "local": false
+  },
+  {
+   "id": "fa8e0f065526d380",
+   "source": "ZDNet",
+   "title": "1Password victime d’une intrusion et d’un vol de données clients",
+   "link": "https://www.zdnet.fr/actualites/1password-victime-dune-intrusion-et-dun-vol-de-donnees-clients-508652.htm#xtor=RSS-1",
+   "summary": "Des attaquants ont poussé du code malveillant sur des services internes du gestionnaire de mots de passe et téléchargé des données administratives de clients. Coffres-forts, clés de chiffrement et applications n’auraient pas été touchés,…",
+   "date": "2026-11-26T08:11:31Z",
+   "local": false
+  },
+  {
+   "id": "05861889cfa7e8ae",
+   "source": "Le Monde Informatique",
+   "title": "Artex : les cyberattaquants intensifient l'utilisation d'agents IA offensifs",
+   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/artex-les-cyberattaquants-intensifient-l-utilisation-d-agents-ia-offensifs",
+   "summary": "L’utilisation d’Artex, un framework de tests d’intrusion piloté par des agents d’intelligence artificielle, progresse dans les campagnes malveillantes. Selon Microsoft Threat Intelligence, plusieurs groupes liés à des États et des acteurs…",
+   "date": "2026-11-26T07:30:00Z",
+   "local": false
+  },
+  {
+   "id": "05d09b691a204149",
+   "source": "IT-Connect",
+   "title": "Cyberattaque 1Password : devez-vous vous inquiéter pour vos mots de passe ?",
+   "link": "https://www.it-connect.fr/cyberattaque-1password-novembre-2026/",
+   "summary": "1Password confirme une cyberattaque : des données clients volées sur des serveurs suite à la compromission du compte GitHub d'un salarié. Le post Cyberattaque 1Password : devez-vous vous inquiéter pour vos mots de passe ? a été publié sur…",
+   "date": "2026-11-26T05:51:00Z",
+   "local": false
+  },
   {
    "id": "58fcdda1dda283b2",
    "source": "Le Monde Informatique",
@@ -17,24 +89,6 @@
    "link": "https://www.lemagit.fr/actualites/366655501/Resultats-financiers-le-sursaut-de-HPE",
    "summary": "Le fournisseur d’équipements pour datacenters affiche un résultat trimestriel en progression de 50 %. La disponibilité de GPU pour les fabricants lui a notamment permis de facturer 8,8 milliards de dollars en serveurs lors des trois…",
    "date": "2026-11-25T11:21:00Z",
-   "local": false
-  },
-  {
-   "id": "dab3278ad1a49e11",
-   "source": "ZDNet",
-   "title": "Souveraineté numérique cyber : peut-être une priorité, mais pas encore une réalité",
-   "link": "https://www.zdnet.fr/actualites/souverainete-numerique-du-cyber-une-priorite-mais-pas-encore-une-realite-508566.htm#xtor=RSS-1",
-   "summary": "Le CESIN et le Campus Cyber se sont penchés sur la question des dépendances des entreprises sur le volet cyber. Et s'ils s'accordent à dire que le sujet est une priorité, les organisations ont encore du mal à concrétiser les discours dans…",
-   "date": "2026-11-25T11:11:29Z",
-   "local": false
-  },
-  {
-   "id": "fa02e34b4d20dfc9",
-   "source": "ZDNet",
-   "title": "ZDNET Morning 25/11/2026 : Souveraineté cyber en France et achats IT, Google met l'utilisateur dans les programmes TV, Le capital de Nvidia",
-   "link": "https://www.zdnet.fr/actualites/zdnet-morning-25-11-2026-souverainete-cyber-en-france-et-achats-it-google-met-lutilisateur-dans-les-programmes-tv-le-capital-de-nvidia-508596.htm#xtor=RSS-1",
-   "summary": "Le ZDNET Morning le brief de l'actu tech pour les pros tous les matins à 9h00. Transformation numérique, IA, matériel, logiciels,... ne passez pas à côté de ce qui fait la Une du secteur.",
-   "date": "2026-11-25T11:11:24Z",
    "local": false
   },
   {
@@ -83,24 +137,6 @@
    "local": false
   },
   {
-   "id": "a6adbf24fd083c5b",
-   "source": "Le Monde Informatique",
-   "title": "Cyberattaque contre Ipsos : le groupe Qilin revendique un vol de données sensibles",
-   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cyberattaque-contre-ipsos-le-groupe-qilin-revendique-un-vol-de-donnees-sensibles",
-   "summary": "Le groupe de cybercriminels Qilin revendique une attaque contre Ipsos et affirme détenir des documents commerciaux appartenant au spécialiste français des études de marché. Plusieurs extraits de fichiers, qui mentionneraient notamment…",
-   "date": "2026-11-25T07:00:00Z",
-   "local": false
-  },
-  {
-   "id": "1933e8aeee0dc7f6",
-   "source": "Le Monde Informatique",
-   "title": "Collectivités territoriales : la cybersécurité passe par la mutualisation des moyens",
-   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/collectivites-territoriales-la-cybersecurite-passe-par-la-mutualisation-des-moyens",
-   "summary": "Les petites communes peinent encore à disposer des compétences et des ressources nécessaires pour protéger leurs systèmes d'information. Devant une commission du Sénat, l'ANSSI et le GIP ACYMA ont plaidé pour un accompagnement de…",
-   "date": "2026-11-25T07:00:00Z",
-   "local": true
-  },
-  {
    "id": "d346c0e4d044a44f",
    "source": "IT-Connect",
    "title": "Cyberattaque Commission européenne : les noms et adresses e-mail des utilisateurs d’EU Academy ont fuité",
@@ -128,15 +164,6 @@
    "local": false
   },
   {
-   "id": "8f45124badd8a0b9",
-   "source": "ZDNet",
-   "title": "Alexandra Bejan, Synology France : Cyberattaque contre un hôpital : la continuité des soins se prépare aussi dans les systèmes informatiques",
-   "link": "https://www.zdnet.fr/tribune/alexandra-bejan-synology-france-cyberattaque-contre-un-hopital-la-continuite-des-soins-se-prepare-aussi-dans-les-systemes-informatiques-508507.htm#xtor=RSS-1",
-   "summary": "Après la cyberattaque ayant forcé le CHU de Guadeloupe à déclencher son plan blanc, Alexandra Bejan, Marketing Director chez Synology France, détaille les leviers de résilience : maîtrise des prestataires, sauvegardes immuables et tests…",
-   "date": "2026-11-25T05:11:11Z",
-   "local": true
-  },
-  {
    "id": "f8c1236b452bad3f",
    "source": "CNIL",
    "title": "Acteurs du secteur de la livraison : comment définir les responsabilités au regard du RGPD ?",
@@ -146,30 +173,12 @@
    "local": false
   },
   {
-   "id": "9363ed0d48037356",
-   "source": "Le Monde Informatique",
-   "title": "Cybersécurité : des failles Bluetooth permettent de contrôler à distance les freins de remorques",
-   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cybersecurite-des-failles-bluetooth-permettent-de-controler-a-distance-les-freins-de-remorques",
-   "summary": "Des chercheurs en cybersécurité ont découvert plusieurs vulnérabilités critiques dans les contrôleurs de freinage Bluetooth du fabricant australien Elecbrakes. Ces failles permettent à une personne située à portée du signal radio…",
-   "date": "2026-11-24T11:45:01Z",
-   "local": false
-  },
-  {
    "id": "9a9fcc8bd904b706",
    "source": "LeMagIT",
    "title": "Cybersécurité : la CNIL est passée à la vitesse supérieure",
    "link": "https://www.lemagit.fr/conseil/Cybersecurite-la-CNIL-est-passee-a-la-vitesse-superieure",
    "summary": "Amendes records, injonctions sous astreinte et contrôles ciblés : en 2026, la CNIL a fait de la cybersécurité sa priorité absolue. Des grandes entreprises aux acteurs publics, les sanctions révèlent toujours les mêmes failles, pourtant…",
    "date": "2026-11-24T11:32:00Z",
-   "local": false
-  },
-  {
-   "id": "de96bd7ef612ae52",
-   "source": "Le Monde Informatique",
-   "title": "IA et Cybersécurité : les entreprises contraintes de revoir leur priorités",
-   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/la-bataille-des-priorites-dans-les-budgets-it",
-   "summary": "Face au renchérissement des infrastructures et à la multiplication des projets d'IA, les entreprises doivent revoir leurs arbitrages numériques. Lors d'une table ronde organisée au TechShow Paris le 18 novembre, trois intervenants ont…",
-   "date": "2026-11-24T11:25:03Z",
    "local": false
   },
   {
