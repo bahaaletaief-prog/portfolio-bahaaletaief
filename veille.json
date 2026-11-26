@@ -1,6 +1,24 @@
 {
- "updatedAt": "2026-11-25T14:33:26Z",
+ "updatedAt": "2026-11-26T00:30:10Z",
  "articles": [
+  {
+   "id": "58fcdda1dda283b2",
+   "source": "Le Monde Informatique",
+   "title": "Black Friday : les cybermenaces dopées à l'IA mettent les distributeurs sous pression",
+   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/black-friday-les-cybermenaces-dopees-a-l-ia-mettent-les-distributeurs-sous-pression",
+   "summary": "À l'approche du Black Friday, les enseignes doivent se préparer à une hausse des attaques visant leurs sites, leurs comptes clients et leurs infrastructures de paiement. L'IA accélère les capacités des attaquants, tandis qu'une part…",
+   "date": "2026-11-25T15:40:12Z",
+   "local": false
+  },
+  {
+   "id": "faee9b0e8465bf0e",
+   "source": "LeMagIT",
+   "title": "Résultats financiers : le sursaut de HPE",
+   "link": "https://www.lemagit.fr/actualites/366655501/Resultats-financiers-le-sursaut-de-HPE",
+   "summary": "Le fournisseur d’équipements pour datacenters affiche un résultat trimestriel en progression de 50 %. La disponibilité de GPU pour les fabricants lui a notamment permis de facturer 8,8 milliards de dollars en serveurs lors des trois…",
+   "date": "2026-11-25T11:21:00Z",
+   "local": false
+  },
   {
    "id": "dab3278ad1a49e11",
    "source": "ZDNet",
@@ -20,12 +38,21 @@
    "local": false
   },
   {
-   "id": "658ca4a79f333fa0",
-   "source": "ZDNet",
-   "title": "Jensen Huang : Trump évoque une grâce et une prise de participation des Etats-Unis dans Nvidia",
-   "link": "https://www.zdnet.fr/actualites/jensen-huang-trump-evoque-une-grace-et-une-prise-de-participation-de-letat-dans-nvidia-508578.htm#xtor=RSS-1",
-   "summary": "Avant ses auditions au Congrès les 1er et 3 décembre, Jensen Huang reçoit le soutien de Donald Trump, qui n’exclut pas de le gracier, tandis que le ministre de la Justice ne dit pas si le patron de Nvidia fait l’objet d’une enquête.",
-   "date": "2026-11-25T09:11:55Z",
+   "id": "01d2f9e53963e1a2",
+   "source": "LeMagIT",
+   "title": "Facture électronique : un rodage freiné par l’interopérabilité des systèmes IT",
+   "link": "https://www.lemagit.fr/actualites/366655414/Facture-electronique-un-rodage-freine-par-linteroperabilite-des-systemes-IT",
+   "summary": "Les débuts de la facture électronique restent modestes. Environ 50 millions de factures pour un objectif de plus de 3 milliards, selon Deborah Pilet, CPO de N2F. Raccordement des logiciels, sécurité des données, synchronisation des…",
+   "date": "2026-11-25T11:05:00Z",
+   "local": false
+  },
+  {
+   "id": "5f45da81b6f63519",
+   "source": "LeMagIT",
+   "title": "Gestion du risque lié aux tiers : fournisseurs et clients, impossibles à réconcilier ?",
+   "link": "https://www.lemagit.fr/actualites/366655500/Gestion-du-risque-lie-aux-tiers-fournisseurs-et-clients-impossible-a-reconcilier",
+   "summary": "La quatrième édition de l’observatoire du risque cyber lié aux tiers vient de sortir, à point nommé. Il souligne les difficultés de réconcilier des perspectives qui ne manquent pas de diverger.",
+   "date": "2026-11-25T10:51:00Z",
    "local": false
   },
   {
@@ -35,6 +62,24 @@
    "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cyberattaques-dopees-a-l-ia-ibm-appelle-les-entreprises-a-anticiper-les-defaillances",
    "summary": "Face à l’accélération des cyberattaques liée à l’intelligence artificielle, les entreprises doivent revoir leurs stratégies de cybersécurité. Pour Mark Hughes, responsable mondial des services de cybersécurité d’IBM Consulting, les…",
    "date": "2026-11-25T07:30:00Z",
+   "local": false
+  },
+  {
+   "id": "1d90c514e8970c5e",
+   "source": "ZDNet",
+   "title": "Condamnation de Huawei aux Etats-Unis : quels risques de conformité et de chaîne d'approvisionnement pour les DSI ?",
+   "link": "https://www.zdnet.fr/actualites/condamnation-de-huawei-aux-etats-unis-quels-risques-de-conformite-et-de-chaine-dapprovisionnement-pour-les-dsi-508631.htm#xtor=RSS-1",
+   "summary": "Un jury a reconnu Huawei coupable de 10 des 12 chefs d'accusation retenus contre l'équipementier chinois, incluant la fraude bancaire, la violation des sanctions en Iran et le vol de secrets industriels. Le tribunal a toutefois écarté les…",
+   "date": "2026-11-25T07:11:32Z",
+   "local": false
+  },
+  {
+   "id": "bfa5852e5ba25e11",
+   "source": "ZDNet",
+   "title": "Quantique et IA : l'UE prépare un fonds souverain de 50 milliards d'euros pour contrer les États-Unis et la Chine",
+   "link": "https://www.zdnet.fr/actualites/quantique-et-ia-lue-prepare-un-fonds-souverain-de-50-milliards-deuros-pour-contrer-les-etats-unis-et-la-chine-508633.htm#xtor=RSS-1",
+   "summary": "La Commission européenne propose un fonds souverain de 50 milliards d'euros et le Quantum Act pour industrialiser le quantique et l'IA. Bruxelles veut combler son déficit de capitaux privés face aux États-Unis, et favoriser les…",
+   "date": "2026-11-25T07:11:05Z",
    "local": false
   },
   {
@@ -72,6 +117,24 @@
    "summary": "Cinq jours après la zero-day CVE-2026-123890, Broadcom corrige 23 failles VMware, dont la CVE-2026-123903 dans vCenter et deux failles critiques dans ESX. Le post VMware vCenter et ESX : trois nouvelles failles critiques, cinq jours après…",
    "date": "2026-11-25T06:05:00Z",
    "local": false
+  },
+  {
+   "id": "7157a41ea4ec36dd",
+   "source": "ZDNet",
+   "title": "Télétravail, déplacements, Wi-Fi public : comment protéger les connexions de tous les collaborateurs d’une équipe ?",
+   "link": "https://www.zdnet.fr/publicite/teletravail-deplacements-wi-fi-public-comment-proteger-les-connexions-de-tous-les-collaborateurs-dune-equipe-508623.htm#xtor=RSS-1",
+   "summary": "Une PME dont les salariés travaillent depuis leur domicile, un hôtel ou un espace de coworking multiplie les réseaux qu'elle ne contrôle pas réellement, et ce sont précisément ces réseaux qui peuvent causer des soucis de sécurité auprès…",
+   "date": "2026-11-25T05:11:12Z",
+   "local": false
+  },
+  {
+   "id": "8f45124badd8a0b9",
+   "source": "ZDNet",
+   "title": "Alexandra Bejan, Synology France : Cyberattaque contre un hôpital : la continuité des soins se prépare aussi dans les systèmes informatiques",
+   "link": "https://www.zdnet.fr/tribune/alexandra-bejan-synology-france-cyberattaque-contre-un-hopital-la-continuite-des-soins-se-prepare-aussi-dans-les-systemes-informatiques-508507.htm#xtor=RSS-1",
+   "summary": "Après la cyberattaque ayant forcé le CHU de Guadeloupe à déclencher son plan blanc, Alexandra Bejan, Marketing Director chez Synology France, détaille les leviers de résilience : maîtrise des prestataires, sauvegardes immuables et tests…",
+   "date": "2026-11-25T05:11:11Z",
+   "local": true
   },
   {
    "id": "f8c1236b452bad3f",
@@ -119,15 +182,6 @@
    "local": false
   },
   {
-   "id": "1a2994afc50c251d",
-   "source": "ZDNet",
-   "title": "Nvidia : Donald Trump a pesé en coulisses sur le retour de Jensen Huang",
-   "link": "https://www.zdnet.fr/actualites/nvidia-donald-trump-a-pese-en-coulisses-sur-le-retour-de-jensen-huang-508468.htm#xtor=RSS-1",
-   "summary": "Quelques jours après avoir exclu tout retour de Jensen Huang à la tête de Nvidia, le conseil d’administration du géant américain des semi-conducteurs a fait volte-face sous la pression de Donald Trump.",
-   "date": "2026-11-24T10:11:22Z",
-   "local": false
-  },
-  {
    "id": "b57dcc279e654f02",
    "source": "LeMagIT",
    "title": "Cyberattaques en Norvège : une vulnérabilité affectait Microsoft API Manager",
@@ -137,39 +191,12 @@
    "local": false
   },
   {
-   "id": "ac0941603296b55e",
-   "source": "Le Monde Informatique",
-   "title": "Règlementation : les entreprises doivent intégrer les contraintes dès la conception de leurs systèmes IT",
-   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/reglementation-les-entreprises-doivent-integrer-les-contraintes-des-la-conception-de-leurs-systemes-it",
-   "summary": "Avec l'accumulation des réglementations européennes, de l'IA Act à NIS 2 en passant par le RGPD et DORA, la conformité devient un enjeu structurant pour les directions IT. Lors d'une conférence organisée au TechShow Paris le 18 novembre,…",
-   "date": "2026-11-24T09:30:57Z",
-   "local": true
-  },
-  {
    "id": "874b59c831027013",
    "source": "LeMagIT",
    "title": "CrowdStrike absorbe Zscaler : consolidation et convergence des plateformes",
    "link": "https://www.lemagit.fr/actualites/366655452/CrowdStrike-absorbe-Zscaler-consolidation-et-convergence-des-plateformes",
    "summary": "CrowdStrike acquiert Zscaler pour intégrer la sécurité réseau dans sa plateforme d’endpoint, cherchant à maîtriser les risques associés à l’intelligence artificielle.",
    "date": "2026-11-24T04:37:00Z",
-   "local": false
-  },
-  {
-   "id": "c24ed0d573933423",
-   "source": "ZDNet",
-   "title": "Protéger dix PC avec Avast : ce que comprend l’abonnement Premium Security",
-   "link": "https://www.zdnet.fr/publicite/proteger-dix-pc-avec-avast-ce-que-comprend-labonnement-premium-security-507829.htm#xtor=RSS-1",
-   "summary": "Avec sa licence pour dix appareils et une remise de 60 % la première année, Avast One Premium Security peut couvrir plusieurs ordinateurs et mobiles au sein d’un même foyer.",
-   "date": "2026-11-24T04:11:56Z",
-   "local": false
-  },
-  {
-   "id": "8ba52b9073baaa3b",
-   "source": "IT-Connect",
-   "title": "Entra Connect Health : une faille exploitée a exposé les e-mails des admins de tenants Microsoft",
-   "link": "https://www.it-connect.fr/entra-connect-health-faille-exploitee-metadonnees-tenants/",
-   "summary": "Une faille dans l'API d'Entra Connect Health a été exploitée pour lire les métadonnées de tenants, dont les e-mails des admins. Voici ce qu'il faut savoir. Le post Entra Connect Health : une faille exploitée a exposé les e-mails des…",
-   "date": "2026-11-24T02:00:00Z",
    "local": false
   },
   {
@@ -198,42 +225,6 @@
    "summary": "La CNIL peut effectuer des contrôles auprès de l’ensemble des organismes qui traitent des données personnelles. Afin d’assurer une plus grande transparence sur cette activité et favoriser le bon déroulement des investigations, la CNIL…",
    "date": "2026-11-23T12:00:00Z",
    "local": false
-  },
-  {
-   "id": "92ef118df1b2b244",
-   "source": "ZDNet",
-   "title": "Web pratique : six paramètres de Chrome à choisir pour améliorer sa navigation",
-   "link": "https://www.zdnet.fr/pratique/web-pratique-six-parametres-de-chrome-a-choisir-pour-ameliorer-sa-navigation-508389.htm#xtor=RSS-1",
-   "summary": "Pour renforcer la confidentialité et la sécurité, réduire les interruptions et améliorer la productivité, voici les réglages par défaut du navigateur de Google à modifier.",
-   "date": "2026-11-23T11:11:54Z",
-   "local": false
-  },
-  {
-   "id": "62f07c643793ffe4",
-   "source": "LeMagIT",
-   "title": "Supply Chain IA : les fuites de secrets dans les infrastructures d’inférence",
-   "link": "https://www.lemagit.fr/actualites/366655292/Supply-Chain-IA-les-fuites-de-secrets-dans-les-infrastructures-dinference",
-   "summary": "L’analyse de la chaîne logistique de l’inférence IA révèle des failles structurelles et des compromissions de fournisseurs exposant les données clients. Une expérimentation de plusieurs mois en dresse une cartographie.",
-   "date": "2026-11-23T10:58:00Z",
-   "local": false
-  },
-  {
-   "id": "1d460438657663c0",
-   "source": "LeMagIT",
-   "title": "Ransomware : les frameworks offensifs agentiques sont entrés dans la danse",
-   "link": "https://www.lemagit.fr/actualites/366655137/Ransomware-les-frameworks-offensifs-agentiques-sont-entres-dans-la-danse",
-   "summary": "Les cybercriminels ne se contentent plus d’un usage superficiel des modèles d’IA générative : ils ont commencé à s’appuyer sur des frameworks offensifs agentiques tels qu’Artex.",
-   "date": "2026-11-23T10:55:00Z",
-   "local": true
-  },
-  {
-   "id": "4c7dec2cc4303190",
-   "source": "LeMagIT",
-   "title": "Ransomware : le FBI piège un arnaqueur qui prétendait pouvoir déchiffrer",
-   "link": "https://www.lemagit.fr/actualites/366655114/Ransomware-le-FBI-piege-un-arnaqueur-qui-pretendait-pouvoir-dechiffrer",
-   "summary": "Le piège s’est refermé avec l’intervention de deux agents, l’un se faisant passer pour une victime de rançongiciel et l’autre… pour le cybercriminel ayant conduit la prétendue attaque.",
-   "date": "2026-11-20T12:13:00Z",
-   "local": true
   },
   {
    "id": "92b13b4229234d6d",
