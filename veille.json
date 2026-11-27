@@ -1,6 +1,105 @@
 {
- "updatedAt": "2026-11-27T00:39:40Z",
+ "updatedAt": "2026-11-27T13:58:28Z",
  "articles": [
+  {
+   "id": "9fe23cca0fddef4a",
+   "source": "CNIL",
+   "title": "IA en contexte de soins : accompagner le bon usage avec le guide CNIL et HAS",
+   "link": "https://www.cnil.fr/fr/ia-en-soins-guide-has-cnil",
+   "summary": "Avec la publication du guide « IA en contexte de soins : accompagner le bon usage » qu’elles ont conjointement élaboré, la Haute Autorité de santé (HAS) et la CNIL se mobilisent pour accompagner les acteurs de la santé en clarifiant les…",
+   "date": "2026-11-27T12:00:00Z",
+   "local": false
+  },
+  {
+   "id": "6bc062806a4005dc",
+   "source": "ZDNet",
+   "title": "La CNAF bascule ses ordinateurs en libre service de Windows à Linux",
+   "link": "https://www.zdnet.fr/actualites/la-cnaf-bascule-ses-ordinateurs-en-libre-service-de-windows-a-linux-508732.htm#xtor=RSS-1",
+   "summary": "La Caisse Nationale des Affaires Familiales bascule 2400 ordinateurs proposés en libre service dans ses agences vers des systèmes d'exploitation basés sur Linux. Un choix justifié à la fois par des considérations de sécurité, de…",
+   "date": "2026-11-27T11:11:44Z",
+   "local": false
+  },
+  {
+   "id": "05052e2cee070d55",
+   "source": "Le Monde Informatique",
+   "title": "Binance rétablit les retraits après le piratage de 6,3 Md$ de crypto-actifs",
+   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/binance-retablit-les-retraits-apres-le-piratage-de-6-3-md-de-crypto-actifs",
+   "summary": "Près d’un mois après le vol de crypto-actifs survenu le 29 octobre, Binance annonce avoir achevé la remise en service des retraits sur sa plateforme. L’exchange avait suspendu cette fonctionnalité pour contenir l’incident et sécuriser ses…",
+   "date": "2026-11-27T10:32:24Z",
+   "local": false
+  },
+  {
+   "id": "358fdfe6361a1076",
+   "source": "Le Monde Informatique",
+   "title": "Cybersécurité : les agents IA prennent le contrôle du cloud plus vite que les entreprises ne sécurisent leurs accès",
+   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cybersecurite-les-agents-ia-prennent-le-controle-du-cloud-plus-vite-que-les-entreprises-ne-securisent-leurs-acces",
+   "summary": "99 % des entreprises utilisent des agents IA dans leurs chaînes de développement. Mais leur capacité à modifier du codeet à intervenir en production progresse plus vite que les dispositifs de sécurité, selon une étude de Palo Alto Networks.",
+   "date": "2026-11-27T09:56:54Z",
+   "local": false
+  },
+  {
+   "id": "001ec0de33408999",
+   "source": "IT-Connect",
+   "title": "Danfoss, Mitel MiCollab, Juniper, Xen Orchestra : la CISA alerte sur 10 failles exploitées",
+   "link": "https://www.it-connect.fr/danfoss-mitel-juniper-xen-orchestra-10-failles-exploitees-cisa/",
+   "summary": "La CISA a ajouté 10 failles exploitées à son catalogue KEV : contrôleurs Danfoss, Mitel MiCollab, Juniper et Xen Orchestra. Voici les failles en question. Le post Danfoss, Mitel MiCollab, Juniper, Xen Orchestra : la CISA alerte sur 10…",
+   "date": "2026-11-27T09:36:00Z",
+   "local": false
+  },
+  {
+   "id": "da133585068696c5",
+   "source": "Le Monde Informatique",
+   "title": "Cyberattaque chez SAP : des soupçons d'accès au code source sur GitHub",
+   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cyberattaque-chez-sap-des-soupcons-d-acces-au-code-source-sur-github",
+   "summary": "SAP a confirmé, le 27 novembre 2026, avoir détecté des activités suspectes dans son environnement informatique. Selon plusieurs médias allemands, des attaquants auraient utilisé des jetons d'authentification dérobés à des employés pour…",
+   "date": "2026-11-27T09:08:03Z",
+   "local": false
+  },
+  {
+   "id": "b1964139cc329bb3",
+   "source": "IT-Connect",
+   "title": "GLPI AI : découvrez comment l’IA peut aider vos techniciens au quotidien",
+   "link": "https://www.it-connect.fr/tuto-glpi-ai/",
+   "summary": "Tutoriel GLPI AI : installez le plugin, choisissez votre fournisseur d'IA, résumez vos tickets et branchez un client IA sur GLPI via le protocole MCP. Le post GLPI AI : découvrez comment l’IA peut aider vos techniciens au quotidien a été…",
+   "date": "2026-11-27T08:31:20Z",
+   "local": false
+  },
+  {
+   "id": "55d9dc131445f9bb",
+   "source": "Le Monde Informatique",
+   "title": "Cyberattaque contre l'AFP : la plateforme AFP Forum mise hors ligne",
+   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cyberattaque-contre-l-afp-la-plateforme-afp-forum-mise-hors-ligne",
+   "summary": "L'Agence France-Presse (AFP) a été victime d'une cyberattaque dans la nuit du 25 au 26 novembre 2026. L'intrusion a conduit l'agence à suspendre temporairement l'accès à AFP Forum, une plateforme utilisée par ses clients pour consulter et…",
+   "date": "2026-11-27T08:27:48Z",
+   "local": false
+  },
+  {
+   "id": "5095449529cf2a47",
+   "source": "Le Monde Informatique",
+   "title": "MiniMax visé par des soupçons d'exposition de données, Apple retire Talkie de l'App Store",
+   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/minimax-vise-par-des-soupcons-d-exposition-de-donnees-apple-retire-talkie-de-l-app-store",
+   "summary": "Le groupe chinois MiniMax fait face à deux affaires distinctes. Selon une enquête de Dragos révélée par Reuters le 26 novembre 2026, des liens confidentiels transmis à ses modèles d'intelligence artificielle auraient été consultés par des…",
+   "date": "2026-11-27T08:00:00Z",
+   "local": false
+  },
+  {
+   "id": "aa2edb604a716904",
+   "source": "LeMagIT",
+   "title": "Jules opte pour une passerelle de sécurité souveraine pour ses magasins",
+   "link": "https://www.lemagit.fr/etude/Jules-opte-pour-une-passerelle-de-securite-souveraine-pour-ses-magasins",
+   "summary": "Victime d’une cyberattaque en 2022, l’enseigne de prêt-à-porter masculin a renforcé ses mesures de sécurité, mais s’est heurtée au manque de réactivité de son fournisseur de Gateway américain. Son RSO s’est tourné vers une solution…",
+   "date": "2026-11-27T07:58:00Z",
+   "local": false
+  },
+  {
+   "id": "9844cee4b883fc7f",
+   "source": "IT-Connect",
+   "title": "Drupal : après Fail2Install, une nouvelle faille critique déjà exploitée (CVE-2026-136716)",
+   "link": "https://www.it-connect.fr/drupal-fail2install-cve-2026-136716-faille-exploitee/",
+   "summary": "Une semaine après Fail2Install, Drupal a corrigé la CVE-2026-136716, une faille critique de son installeur déjà exploitée. Voici ce qu'il faut savoir. Le post Drupal : après Fail2Install, une nouvelle faille critique déjà exploitée…",
+   "date": "2026-11-27T07:52:44Z",
+   "local": false
+  },
   {
    "id": "368bf905ac5f8064",
    "source": "Le Monde Informatique",
@@ -29,29 +128,11 @@
    "local": false
   },
   {
-   "id": "cee8b0cc5c9c5688",
-   "source": "Le Monde Informatique",
-   "title": "RGPD : le registre allégé pour les entreprises de moins de 1 000 salariés",
-   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/rgpd-le-registre-allege-pour-les-entreprises-de-moins-de-1-000-salaries",
-   "summary": "Les eurodéputés ont adopté une mesure de simplification qui dispense certaines entreprises de tenir un registre exhaustif de leurs traitements de données personnelles. Cette évolution du RGPD, intégrée au règlement Omnibus IV, maintient…",
-   "date": "2026-11-26T14:39:32Z",
-   "local": false
-  },
-  {
-   "id": "e9dc606b587feefb",
-   "source": "Le Monde Informatique",
-   "title": "Cyberattaque : la FIFA confirme le vol de données personnelles et professionnelles",
-   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cyberattaque-la-fifa-confirme-le-vol-de-donnees-personnelles-et-professionnelles",
-   "summary": "La Fédération internationale de football (FIFA) a été victime d'une cyberattaque ayant permis à des pirates d'accéder à des informations personnelles et professionnelles. l'organisation assure que les documents liés à son projet…",
-   "date": "2026-11-26T13:46:15Z",
-   "local": false
-  },
-  {
    "id": "7cadc7c983ab98ac",
    "source": "LeMagIT",
-   "title": "Rançongiciels : une menace qui s’intensifie",
+   "title": "Rançongiciels : une menace qui s’intensifie (nouveau magazine Information sécurité)",
    "link": "https://www.lemagit.fr/actualites/366655557/Rancongiciels-une-menace-qui-sintensifie",
-   "summary": "Si la France peut apparaître relativement protégée de l’intensification de la menace, il serait malvenu de baisser la garde. Car la menace des ransomwares change, qualitativement, avec un raccourcissement de la fenêtre de détection.",
+   "summary": "Si la France peut apparaître relativement protégée de l’intensification de la menace, il serait malvenu de baisser la garde. Car la menace des ransomwares change, qualitativement, avec un raccourcissement de la fenêtre de détection. C’est…",
    "date": "2026-11-26T13:10:00Z",
    "local": true
   },
@@ -62,15 +143,6 @@
    "link": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-26-novembre-2026",
    "summary": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 26 novembre 2026 à 9 h 30 avec l’ordre du jour suivant :",
    "date": "2026-11-26T12:00:00Z",
-   "local": false
-  },
-  {
-   "id": "0a9ef7b2dc31d0ed",
-   "source": "Le Monde Informatique",
-   "title": "1Password victime d'une intrusion via GitHub",
-   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/1password-victime-d-une-intrusion-via-github",
-   "summary": "Le gestionnaire de mots de passe a subi une compromission de ses systèmes internes à la suite du piratage d'un compte GitHub d'entreprise. Si les coffres-forts chiffrés n'ont pas été affectés, des informations personnelles et des données…",
-   "date": "2026-11-26T10:28:36Z",
    "local": false
   },
   {
@@ -92,30 +164,12 @@
    "local": false
   },
   {
-   "id": "7d5dfac398ee8691",
-   "source": "Le Monde Informatique",
-   "title": "De faux tests de recrutement ciblent les développeurs .NET via NuGet",
-   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/de-faux-tests-de-recrutement-ciblent-les-developpeurs-net-via-nuget",
-   "summary": "Une campagne malveillante cible les développeurs .NET en diffusant de faux exercices techniques de recrutement contenant des dépendances NuGet compromises. Dans un rapport publié le 23 novembre 2026, Socket indique avoir identifié 13…",
-   "date": "2026-11-26T08:15:00Z",
-   "local": false
-  },
-  {
    "id": "fa8e0f065526d380",
    "source": "ZDNet",
    "title": "1Password victime d’une intrusion et d’un vol de données clients",
    "link": "https://www.zdnet.fr/actualites/1password-victime-dune-intrusion-et-dun-vol-de-donnees-clients-508652.htm#xtor=RSS-1",
    "summary": "Des attaquants ont poussé du code malveillant sur des services internes du gestionnaire de mots de passe et téléchargé des données administratives de clients. Coffres-forts, clés de chiffrement et applications n’auraient pas été touchés,…",
    "date": "2026-11-26T08:11:31Z",
-   "local": false
-  },
-  {
-   "id": "05861889cfa7e8ae",
-   "source": "Le Monde Informatique",
-   "title": "Artex : les cyberattaquants intensifient l'utilisation d'agents IA offensifs",
-   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/artex-les-cyberattaquants-intensifient-l-utilisation-d-agents-ia-offensifs",
-   "summary": "L’utilisation d’Artex, un framework de tests d’intrusion piloté par des agents d’intelligence artificielle, progresse dans les campagnes malveillantes. Selon Microsoft Threat Intelligence, plusieurs groupes liés à des États et des acteurs…",
-   "date": "2026-11-26T07:30:00Z",
    "local": false
   },
   {
@@ -173,33 +227,6 @@
    "local": false
   },
   {
-   "id": "d346c0e4d044a44f",
-   "source": "IT-Connect",
-   "title": "Cyberattaque Commission européenne : les noms et adresses e-mail des utilisateurs d’EU Academy ont fuité",
-   "link": "https://www.it-connect.fr/eu-academy-fuite-donnees-cyberattaque-commission-europeenne/",
-   "summary": "La Commission européenne confirme que la cyberattaque assistée par l'IA a touché EU Academy : noms et e-mails des utilisateurs ont fuité. Le post Cyberattaque Commission européenne : les noms et adresses e-mail des utilisateurs d’EU…",
-   "date": "2026-11-25T06:31:00Z",
-   "local": false
-  },
-  {
-   "id": "4442b0fa19e8804f",
-   "source": "IT-Connect",
-   "title": "VMware vCenter et ESX : trois nouvelles failles critiques, cinq jours après la faille zero-day",
-   "link": "https://www.it-connect.fr/vmware-vcenter-esx-cve-2026-123903-failles-novembre/",
-   "summary": "Cinq jours après la zero-day CVE-2026-123890, Broadcom corrige 23 failles VMware, dont la CVE-2026-123903 dans vCenter et deux failles critiques dans ESX. Le post VMware vCenter et ESX : trois nouvelles failles critiques, cinq jours après…",
-   "date": "2026-11-25T06:05:00Z",
-   "local": false
-  },
-  {
-   "id": "7157a41ea4ec36dd",
-   "source": "ZDNet",
-   "title": "Télétravail, déplacements, Wi-Fi public : comment protéger les connexions de tous les collaborateurs d’une équipe ?",
-   "link": "https://www.zdnet.fr/publicite/teletravail-deplacements-wi-fi-public-comment-proteger-les-connexions-de-tous-les-collaborateurs-dune-equipe-508623.htm#xtor=RSS-1",
-   "summary": "Une PME dont les salariés travaillent depuis leur domicile, un hôtel ou un espace de coworking multiplie les réseaux qu'elle ne contrôle pas réellement, et ce sont précisément ces réseaux qui peuvent causer des soucis de sécurité auprès…",
-   "date": "2026-11-25T05:11:12Z",
-   "local": false
-  },
-  {
    "id": "f8c1236b452bad3f",
    "source": "CNIL",
    "title": "Acteurs du secteur de la livraison : comment définir les responsabilités au regard du RGPD ?",
@@ -215,15 +242,6 @@
    "link": "https://www.lemagit.fr/conseil/Cybersecurite-la-CNIL-est-passee-a-la-vitesse-superieure",
    "summary": "Amendes records, injonctions sous astreinte et contrôles ciblés : en 2026, la CNIL a fait de la cybersécurité sa priorité absolue. Des grandes entreprises aux acteurs publics, les sanctions révèlent toujours les mêmes failles, pourtant…",
    "date": "2026-11-24T11:32:00Z",
-   "local": false
-  },
-  {
-   "id": "b57dcc279e654f02",
-   "source": "LeMagIT",
-   "title": "Cyberattaques en Norvège : une vulnérabilité affectait Microsoft API Manager",
-   "link": "https://www.lemagit.fr/actualites/366655435/Cyberattaques-en-Norvege-une-vulnerabilite-affectait-Microsoft-API-Manager",
-   "summary": "La semaine dernière, deux énergéticiens norvégiens se déclaraient victimes d’une cyberattaque. La menace a été rapidement identifiée. Des secrets sont susceptibles d’avoir été compromis.",
-   "date": "2026-11-24T09:49:00Z",
    "local": false
   },
   {
@@ -251,15 +269,6 @@
    "link": "https://www.cnil.fr/fr/controles-de-la-cnil-une-charte-pour-tout-comprendre",
    "summary": "La CNIL peut effectuer des contrôles auprès de l’ensemble des organismes qui traitent des données personnelles. Afin d’assurer une plus grande transparence sur cette activité et favoriser le bon déroulement des investigations, la CNIL…",
    "date": "2026-11-23T12:00:00Z",
-   "local": false
-  },
-  {
-   "id": "92b13b4229234d6d",
-   "source": "CNIL",
-   "title": "IA et éducation : une résolution mondiale pour la protection des données",
-   "link": "https://www.cnil.fr/fr/gpa-ia-education",
-   "summary": "En novembre 2026, l’Assemblée mondiale pour la protection de la vie privée (Global Privacy Assembly) a adopté une résolution sur l’intelligence artificielle dans le secteur de l’éducation. La CNIL revient sur les onze principes clés et…",
-   "date": "2026-11-20T12:00:00Z",
    "local": false
   },
   {
