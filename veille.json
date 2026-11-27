@@ -1,6 +1,42 @@
 {
- "updatedAt": "2026-11-26T13:59:58Z",
+ "updatedAt": "2026-11-27T00:39:40Z",
  "articles": [
+  {
+   "id": "368bf905ac5f8064",
+   "source": "Le Monde Informatique",
+   "title": "Les lunettes Meta dans le viseur de la justice néerlandaise",
+   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/les-lunettes-meta-dans-le-viseur-de-la-justice-neerlandaise",
+   "summary": "Deux associations néerlandaises demandent à la justice de suspendre la commercialisation des lunettes connectées de Meta et Ray-Ban. Elles dénoncent un dispositif qui permet de filmer des personnes à leur insu, en contradiction avec les…",
+   "date": "2026-11-26T16:18:59Z",
+   "local": false
+  },
+  {
+   "id": "bc7e1ae7d8e90119",
+   "source": "IT-Connect",
+   "title": "Jusqu’à 50 navires piratés via des failles FortiGate : l’Iran soupçonné par les États-Unis",
+   "link": "https://www.it-connect.fr/navires-pirates-iran-fortigate/",
+   "summary": "Pétroliers, méthanier : jusqu'à 50 navires auraient subi une cyberattaque via des pare-feu FortiGate non patchés. Washington soupçonne l'Iran. Le post Jusqu’à 50 navires piratés via des failles FortiGate : l’Iran soupçonné par les…",
+   "date": "2026-11-26T16:14:00Z",
+   "local": false
+  },
+  {
+   "id": "525a0784c36f74cb",
+   "source": "IT-Connect",
+   "title": "La FIFA confirme une cyberattaque : le Handsome Boy Hacking Club revendique le vol de données",
+   "link": "https://www.it-connect.fr/fifa-cyberattaque-handsome-boy-hacking-club-fuite-donnees/",
+   "summary": "La FIFA confirme un vol de données personnelles et professionnelles, revendiqué par le Handsome Boy Hacking Club : voici ce que l'on sait. Le post La FIFA confirme une cyberattaque : le Handsome Boy Hacking Club revendique le vol de…",
+   "date": "2026-11-26T15:22:58Z",
+   "local": false
+  },
+  {
+   "id": "cee8b0cc5c9c5688",
+   "source": "Le Monde Informatique",
+   "title": "RGPD : le registre allégé pour les entreprises de moins de 1 000 salariés",
+   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/rgpd-le-registre-allege-pour-les-entreprises-de-moins-de-1-000-salaries",
+   "summary": "Les eurodéputés ont adopté une mesure de simplification qui dispense certaines entreprises de tenir un registre exhaustif de leurs traitements de données personnelles. Cette évolution du RGPD, intégrée au règlement Omnibus IV, maintient…",
+   "date": "2026-11-26T14:39:32Z",
+   "local": false
+  },
   {
    "id": "e9dc606b587feefb",
    "source": "Le Monde Informatique",
@@ -8,6 +44,24 @@
    "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cyberattaque-la-fifa-confirme-le-vol-de-donnees-personnelles-et-professionnelles",
    "summary": "La Fédération internationale de football (FIFA) a été victime d'une cyberattaque ayant permis à des pirates d'accéder à des informations personnelles et professionnelles. l'organisation assure que les documents liés à son projet…",
    "date": "2026-11-26T13:46:15Z",
+   "local": false
+  },
+  {
+   "id": "7cadc7c983ab98ac",
+   "source": "LeMagIT",
+   "title": "Rançongiciels : une menace qui s’intensifie",
+   "link": "https://www.lemagit.fr/actualites/366655557/Rancongiciels-une-menace-qui-sintensifie",
+   "summary": "Si la France peut apparaître relativement protégée de l’intensification de la menace, il serait malvenu de baisser la garde. Car la menace des ransomwares change, qualitativement, avec un raccourcissement de la fenêtre de détection.",
+   "date": "2026-11-26T13:10:00Z",
+   "local": true
+  },
+  {
+   "id": "6af9cdef6caeffb7",
+   "source": "CNIL",
+   "title": "Ordre du jour de la séance plénière du 26 novembre 2026",
+   "link": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-26-novembre-2026",
+   "summary": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 26 novembre 2026 à 9 h 30 avec l’ordre du jour suivant :",
+   "date": "2026-11-26T12:00:00Z",
    "local": false
   },
   {
@@ -74,15 +128,6 @@
    "local": false
   },
   {
-   "id": "58fcdda1dda283b2",
-   "source": "Le Monde Informatique",
-   "title": "Black Friday : les cybermenaces dopées à l'IA mettent les distributeurs sous pression",
-   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/black-friday-les-cybermenaces-dopees-a-l-ia-mettent-les-distributeurs-sous-pression",
-   "summary": "À l'approche du Black Friday, les enseignes doivent se préparer à une hausse des attaques visant leurs sites, leurs comptes clients et leurs infrastructures de paiement. L'IA accélère les capacités des attaquants, tandis qu'une part…",
-   "date": "2026-11-25T15:40:12Z",
-   "local": false
-  },
-  {
    "id": "faee9b0e8465bf0e",
    "source": "LeMagIT",
    "title": "Résultats financiers : le sursaut de HPE",
@@ -107,15 +152,6 @@
    "link": "https://www.lemagit.fr/actualites/366655500/Gestion-du-risque-lie-aux-tiers-fournisseurs-et-clients-impossible-a-reconcilier",
    "summary": "La quatrième édition de l’observatoire du risque cyber lié aux tiers vient de sortir, à point nommé. Il souligne les difficultés de réconcilier des perspectives qui ne manquent pas de diverger.",
    "date": "2026-11-25T10:51:00Z",
-   "local": false
-  },
-  {
-   "id": "0c55f9c844ada926",
-   "source": "Le Monde Informatique",
-   "title": "Cyberattaques dopées à l’IA : IBM appelle les entreprises à anticiper les défaillances",
-   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cyberattaques-dopees-a-l-ia-ibm-appelle-les-entreprises-a-anticiper-les-defaillances",
-   "summary": "Face à l’accélération des cyberattaques liée à l’intelligence artificielle, les entreprises doivent revoir leurs stratégies de cybersécurité. Pour Mark Hughes, responsable mondial des services de cybersécurité d’IBM Consulting, les…",
-   "date": "2026-11-25T07:30:00Z",
    "local": false
   },
   {
@@ -182,30 +218,12 @@
    "local": false
   },
   {
-   "id": "97768ae328019d23",
-   "source": "IT-Connect",
-   "title": "Google Chrome : une seule faille corrigée, mais elle est critique (CVE-2026-134401)",
-   "link": "https://www.it-connect.fr/cve-2026-134401-faille-critique-chrome/",
-   "summary": "Google a publié Chrome 158.0.8127.88 pour corriger la CVE-2026-134401, une faille critique qui permettrait de sortir de la sandbox : voici ce qu'il faut savoir. Le post Google Chrome : une seule faille corrigée, mais elle est critique…",
-   "date": "2026-11-24T10:33:39Z",
-   "local": false
-  },
-  {
    "id": "b57dcc279e654f02",
    "source": "LeMagIT",
    "title": "Cyberattaques en Norvège : une vulnérabilité affectait Microsoft API Manager",
    "link": "https://www.lemagit.fr/actualites/366655435/Cyberattaques-en-Norvege-une-vulnerabilite-affectait-Microsoft-API-Manager",
    "summary": "La semaine dernière, deux énergéticiens norvégiens se déclaraient victimes d’une cyberattaque. La menace a été rapidement identifiée. Des secrets sont susceptibles d’avoir été compromis.",
    "date": "2026-11-24T09:49:00Z",
-   "local": false
-  },
-  {
-   "id": "874b59c831027013",
-   "source": "LeMagIT",
-   "title": "CrowdStrike absorbe Zscaler : consolidation et convergence des plateformes",
-   "link": "https://www.lemagit.fr/actualites/366655452/CrowdStrike-absorbe-Zscaler-consolidation-et-convergence-des-plateformes",
-   "summary": "CrowdStrike acquiert Zscaler pour intégrer la sécurité réseau dans sa plateforme d’endpoint, cherchant à maîtriser les risques associés à l’intelligence artificielle.",
-   "date": "2026-11-24T04:37:00Z",
    "local": false
   },
   {
@@ -241,15 +259,6 @@
    "title": "IA et éducation : une résolution mondiale pour la protection des données",
    "link": "https://www.cnil.fr/fr/gpa-ia-education",
    "summary": "En novembre 2026, l’Assemblée mondiale pour la protection de la vie privée (Global Privacy Assembly) a adopté une résolution sur l’intelligence artificielle dans le secteur de l’éducation. La CNIL revient sur les onze principes clés et…",
-   "date": "2026-11-20T12:00:00Z",
-   "local": false
-  },
-  {
-   "id": "273e9c9aab7f2757",
-   "source": "CNIL",
-   "title": "48e Assemblée mondiale pour la protection de la vie privée (GPA)",
-   "link": "https://www.cnil.fr/fr/48e-gpa",
-   "summary": "L’Assemblée mondiale pour la protection de la vie privée (ou Global Privacy Assembly), qui rassemble plus de 130 autorités de protection des données de plus de 80 pays, a adopté cinq résolutions dont deux sur l’Intelligence artificielle…",
    "date": "2026-11-20T12:00:00Z",
    "local": false
   },
