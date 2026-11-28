@@ -1,6 +1,42 @@
 {
- "updatedAt": "2026-11-27T13:58:28Z",
+ "updatedAt": "2026-11-28T00:06:14Z",
  "articles": [
+  {
+   "id": "d6799fee408861cf",
+   "source": "IT-Connect",
+   "title": "VMware ESXi et Proxmox VE : des ransomwares déployés avec des identifiants mal protégés",
+   "link": "https://www.it-connect.fr/blacknevas-ransomware-vmware-esxi-vcenter/",
+   "summary": "BlackNevas et The Gentlemen ont frappé des hyperviseurs VMware ESXi et Proxmox VE avec de simples identifiants volés ou stockés au mauvais endroit. Le post VMware ESXi et Proxmox VE : des ransomwares déployés avec des identifiants mal…",
+   "date": "2026-11-27T19:45:50Z",
+   "local": true
+  },
+  {
+   "id": "026114624245300f",
+   "source": "Le Monde Informatique",
+   "title": "Cyberattaques en série, les systèmes IT sous pression",
+   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cyberattaques-en-serie-es-systemes-it-sous-pression",
+   "summary": "Cloud militaire américain, infrastructures critiques suisses, administration britannique, SAP et AFP ont été touchés par des incidents de sécurité ces derniers jours. Ces attaques mettent en évidence la diversité des cibles et la…",
+   "date": "2026-11-27T15:24:08Z",
+   "local": false
+  },
+  {
+   "id": "8aa8e6d82d674d9e",
+   "source": "Le Monde Informatique",
+   "title": "Le Royaume-Uni rejette une pétition réclamant l’interdiction de nouveaux datacenters dédiés à l'IA",
+   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/le-royaume-uni-rejette-une-petition-reclamant-l-interdiction-de-nouveaux-datacenters-dedies-a-l-ia",
+   "summary": "Le gouvernement britannique a déclaré qu’il n’a “aucune intention” d'interdire la construction de nouveaux centres de données destinés à l'IA, malgré une pétition parlementaire dénonçant leur consommation de ressources et leurs…",
+   "date": "2026-11-27T14:50:50Z",
+   "local": false
+  },
+  {
+   "id": "05052e2cee070d55",
+   "source": "Le Monde Informatique",
+   "title": "Binance rétablit les retraits après le piratage de 6,3 Md$ de crypto-actifs",
+   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/binance-retablit-les-retraits-apres-le-piratage-de-6-3-md-de-crypto-actifs",
+   "summary": "Près d’un mois après le vol de crypto-actifs survenu le 29 octobre, Binance annonce avoir achevé la remise en service des retraits sur sa plateforme. L’exchange avait suspendu cette fonctionnalité pour contenir l’incident et sécuriser ses…",
+   "date": "2026-11-27T14:39:12Z",
+   "local": false
+  },
   {
    "id": "9fe23cca0fddef4a",
    "source": "CNIL",
@@ -20,12 +56,30 @@
    "local": false
   },
   {
-   "id": "05052e2cee070d55",
-   "source": "Le Monde Informatique",
-   "title": "Binance rétablit les retraits après le piratage de 6,3 Md$ de crypto-actifs",
-   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/binance-retablit-les-retraits-apres-le-piratage-de-6-3-md-de-crypto-actifs",
-   "summary": "Près d’un mois après le vol de crypto-actifs survenu le 29 octobre, Binance annonce avoir achevé la remise en service des retraits sur sa plateforme. L’exchange avait suspendu cette fonctionnalité pour contenir l’incident et sécuriser ses…",
-   "date": "2026-11-27T10:32:24Z",
+   "id": "e4d829e20062c4a6",
+   "source": "ZDNet",
+   "title": "Test Pebble Index 01 : une bague pour prendre des notes à l’aide d’IA",
+   "link": "https://www.zdnet.fr/guide-achat/test-pebble-index-01-une-bague-pour-prendre-des-notes-a-laide-dia-508766.htm#xtor=RSS-1",
+   "summary": "Cet anneau pourvu d’un bouton ne vous surveille pas 24 heures sur 24, 7 jours sur 7. Il enregistre uniquement ce que vous lui souffler et organise le tout via un agent d’intelligence artificielle installé sur votre smartphone.",
+   "date": "2026-11-27T11:11:33Z",
+   "local": false
+  },
+  {
+   "id": "46d0e15443288f40",
+   "source": "LeMagIT",
+   "title": "CADA Act : entre adaptation et influence, le double discours des acteurs américains",
+   "link": "https://www.lemagit.fr/actualites/366655507/CADA-Act-entre-adaptation-et-influence-le-double-discours-des-acteurs-americains",
+   "summary": "Le CADA Act gêne les fournisseurs cloud qui prétendent à la commande publique. Malgré leurs efforts pour offrir davantage de contrôles locaux aux clients européens, le brouillon du texte fait la part belle aux concurrents européens. Un…",
+   "date": "2026-11-27T10:59:00Z",
+   "local": false
+  },
+  {
+   "id": "4f07ba2eee9957aa",
+   "source": "LeMagIT",
+   "title": "Artex : le DIVD donne un aperçu précieux de ce à quoi s’attendre",
+   "link": "https://www.lemagit.fr/actualites/366655506/Artex-le-DIVD-donne-un-apercu-precieux-de-ce-a-quoi-sattendre",
+   "summary": "L’ère des cyberattaques organisées par des frameworks offensifs agentiques dopés à l’IA s’est ouverte. L’institut danois de divulgation des vulnérabilités semble en avoir fait l’expérience. Il la partage.",
+   "date": "2026-11-27T10:06:00Z",
    "local": false
   },
   {
@@ -56,6 +110,15 @@
    "local": false
   },
   {
+   "id": "953efe4636bb588e",
+   "source": "LeMagIT",
+   "title": "Cyberhebdo du 27 novembre 2026 : une semaine d’une intensité sans précédent",
+   "link": "https://www.lemagit.fr/actualites/366655521/Cyberhebdo-du-27-novembre-2026-une-semaine-dune-intensite-sans-precedent",
+   "summary": "Chaque semaine, dans le Cyberhebdo, nous vous présentons une liste aussi exhaustive que possible des cyberattaques évoquées par la presse dans le monde entier.",
+   "date": "2026-11-27T08:45:00Z",
+   "local": false
+  },
+  {
    "id": "b1964139cc329bb3",
    "source": "IT-Connect",
    "title": "GLPI AI : découvrez comment l’IA peut aider vos techniciens au quotidien",
@@ -74,18 +137,9 @@
    "local": false
   },
   {
-   "id": "5095449529cf2a47",
-   "source": "Le Monde Informatique",
-   "title": "MiniMax visé par des soupçons d'exposition de données, Apple retire Talkie de l'App Store",
-   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/minimax-vise-par-des-soupcons-d-exposition-de-donnees-apple-retire-talkie-de-l-app-store",
-   "summary": "Le groupe chinois MiniMax fait face à deux affaires distinctes. Selon une enquête de Dragos révélée par Reuters le 26 novembre 2026, des liens confidentiels transmis à ses modèles d'intelligence artificielle auraient été consultés par des…",
-   "date": "2026-11-27T08:00:00Z",
-   "local": false
-  },
-  {
    "id": "aa2edb604a716904",
    "source": "LeMagIT",
-   "title": "Jules opte pour une passerelle de sécurité souveraine pour ses magasins",
+   "title": "Jules choisit une passerelle de sécurité souveraine pour ses magasins",
    "link": "https://www.lemagit.fr/etude/Jules-opte-pour-une-passerelle-de-securite-souveraine-pour-ses-magasins",
    "summary": "Victime d’une cyberattaque en 2022, l’enseigne de prêt-à-porter masculin a renforcé ses mesures de sécurité, mais s’est heurtée au manque de réactivité de son fournisseur de Gateway américain. Son RSO s’est tourné vers une solution…",
    "date": "2026-11-27T07:58:00Z",
@@ -101,12 +155,21 @@
    "local": false
   },
   {
-   "id": "368bf905ac5f8064",
-   "source": "Le Monde Informatique",
-   "title": "Les lunettes Meta dans le viseur de la justice néerlandaise",
-   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/les-lunettes-meta-dans-le-viseur-de-la-justice-neerlandaise",
-   "summary": "Deux associations néerlandaises demandent à la justice de suspendre la commercialisation des lunettes connectées de Meta et Ray-Ban. Elles dénoncent un dispositif qui permet de filmer des personnes à leur insu, en contradiction avec les…",
-   "date": "2026-11-26T16:18:59Z",
+   "id": "3053c6f7e41b8532",
+   "source": "ZDNet",
+   "title": "Gmail perso, budget sous 1 000 €, les petites mairies particulièrement vulnérables aux cyberattaques",
+   "link": "https://www.zdnet.fr/actualites/gmail-perso-budget-sous-1-000-e-les-petites-mairies-particulierement-vulnerables-aux-cyberattaques-508823.htm#xtor=RSS-1",
+   "summary": "La fracture numérique et territoriale laisse les maires ruraux sur le bord du chemin face aux cybermenaces, mentionne une étude, alors que l'AMF se tenait cette semaine.",
+   "date": "2026-11-27T07:11:30Z",
+   "local": true
+  },
+  {
+   "id": "23e075745b1cc14c",
+   "source": "ZDNet",
+   "title": "Black Friday Ubigi : 20 % de réduction sur les eSIM de voyage à data illimitée, c'est le moment d'en profiter !",
+   "link": "https://www.zdnet.fr/publicite/black-friday-ubigi-20-de-reduction-sur-les-esim-de-voyage-a-data-illimitee-cest-le-moment-den-profiter-508513.htm#xtor=RSS-1",
+   "summary": "Un code, BLACKFRIDAY, et votre prochain voyage vous coûte moins cher. Jusqu’au 3 décembre 2026, Ubigi vous laisse décrocher une sélection de forfaits eSIM en données illimitées, du Japon aux États-Unis en passant par l’Europe. Vous n’avez…",
+   "date": "2026-11-27T04:11:48Z",
    "local": false
   },
   {
@@ -164,24 +227,6 @@
    "local": false
   },
   {
-   "id": "fa8e0f065526d380",
-   "source": "ZDNet",
-   "title": "1Password victime d’une intrusion et d’un vol de données clients",
-   "link": "https://www.zdnet.fr/actualites/1password-victime-dune-intrusion-et-dun-vol-de-donnees-clients-508652.htm#xtor=RSS-1",
-   "summary": "Des attaquants ont poussé du code malveillant sur des services internes du gestionnaire de mots de passe et téléchargé des données administratives de clients. Coffres-forts, clés de chiffrement et applications n’auraient pas été touchés,…",
-   "date": "2026-11-26T08:11:31Z",
-   "local": false
-  },
-  {
-   "id": "05d09b691a204149",
-   "source": "IT-Connect",
-   "title": "Cyberattaque 1Password : devez-vous vous inquiéter pour vos mots de passe ?",
-   "link": "https://www.it-connect.fr/cyberattaque-1password-novembre-2026/",
-   "summary": "1Password confirme une cyberattaque : des données clients volées sur des serveurs suite à la compromission du compte GitHub d'un salarié. Le post Cyberattaque 1Password : devez-vous vous inquiéter pour vos mots de passe ? a été publié sur…",
-   "date": "2026-11-26T05:51:00Z",
-   "local": false
-  },
-  {
    "id": "faee9b0e8465bf0e",
    "source": "LeMagIT",
    "title": "Résultats financiers : le sursaut de HPE",
@@ -191,57 +236,12 @@
    "local": false
   },
   {
-   "id": "01d2f9e53963e1a2",
-   "source": "LeMagIT",
-   "title": "Facture électronique : un rodage freiné par l’interopérabilité des systèmes IT",
-   "link": "https://www.lemagit.fr/actualites/366655414/Facture-electronique-un-rodage-freine-par-linteroperabilite-des-systemes-IT",
-   "summary": "Les débuts de la facture électronique restent modestes. Environ 50 millions de factures pour un objectif de plus de 3 milliards, selon Deborah Pilet, CPO de N2F. Raccordement des logiciels, sécurité des données, synchronisation des…",
-   "date": "2026-11-25T11:05:00Z",
-   "local": false
-  },
-  {
-   "id": "5f45da81b6f63519",
-   "source": "LeMagIT",
-   "title": "Gestion du risque lié aux tiers : fournisseurs et clients, impossibles à réconcilier ?",
-   "link": "https://www.lemagit.fr/actualites/366655500/Gestion-du-risque-lie-aux-tiers-fournisseurs-et-clients-impossible-a-reconcilier",
-   "summary": "La quatrième édition de l’observatoire du risque cyber lié aux tiers vient de sortir, à point nommé. Il souligne les difficultés de réconcilier des perspectives qui ne manquent pas de diverger.",
-   "date": "2026-11-25T10:51:00Z",
-   "local": false
-  },
-  {
-   "id": "1d90c514e8970c5e",
-   "source": "ZDNet",
-   "title": "Condamnation de Huawei aux Etats-Unis : quels risques de conformité et de chaîne d'approvisionnement pour les DSI ?",
-   "link": "https://www.zdnet.fr/actualites/condamnation-de-huawei-aux-etats-unis-quels-risques-de-conformite-et-de-chaine-dapprovisionnement-pour-les-dsi-508631.htm#xtor=RSS-1",
-   "summary": "Un jury a reconnu Huawei coupable de 10 des 12 chefs d'accusation retenus contre l'équipementier chinois, incluant la fraude bancaire, la violation des sanctions en Iran et le vol de secrets industriels. Le tribunal a toutefois écarté les…",
-   "date": "2026-11-25T07:11:32Z",
-   "local": false
-  },
-  {
-   "id": "bfa5852e5ba25e11",
-   "source": "ZDNet",
-   "title": "Quantique et IA : l'UE prépare un fonds souverain de 50 milliards d'euros pour contrer les États-Unis et la Chine",
-   "link": "https://www.zdnet.fr/actualites/quantique-et-ia-lue-prepare-un-fonds-souverain-de-50-milliards-deuros-pour-contrer-les-etats-unis-et-la-chine-508633.htm#xtor=RSS-1",
-   "summary": "La Commission européenne propose un fonds souverain de 50 milliards d'euros et le Quantum Act pour industrialiser le quantique et l'IA. Bruxelles veut combler son déficit de capitaux privés face aux États-Unis, et favoriser les…",
-   "date": "2026-11-25T07:11:05Z",
-   "local": false
-  },
-  {
    "id": "f8c1236b452bad3f",
    "source": "CNIL",
    "title": "Acteurs du secteur de la livraison : comment définir les responsabilités au regard du RGPD ?",
    "link": "https://www.cnil.fr/fr/acteurs-secteur-livraison-responsabilites",
    "summary": "Dans le cadre de leurs activités, les professionnels de la livraison sont amenés à traiter des données personnelles. Dans la plupart des cas, la CNIL considère que le transporteur est responsable de traitement, mais ce n’est pas…",
    "date": "2026-11-24T12:00:00Z",
-   "local": false
-  },
-  {
-   "id": "9a9fcc8bd904b706",
-   "source": "LeMagIT",
-   "title": "Cybersécurité : la CNIL est passée à la vitesse supérieure",
-   "link": "https://www.lemagit.fr/conseil/Cybersecurite-la-CNIL-est-passee-a-la-vitesse-superieure",
-   "summary": "Amendes records, injonctions sous astreinte et contrôles ciblés : en 2026, la CNIL a fait de la cybersécurité sa priorité absolue. Des grandes entreprises aux acteurs publics, les sanctions révèlent toujours les mêmes failles, pourtant…",
-   "date": "2026-11-24T11:32:00Z",
    "local": false
   },
   {
